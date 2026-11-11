@@ -16,17 +16,17 @@
   "font": "Be Vietnam Pro",
   "series": {
     "color": "#9b6019",
-    "fontSize": 23,
-    "fontWeight": 900,
-    "top": 80
+    "fontSize": 24,
+    "fontWeight": 800,
+    "top": 82
   },
   "title": {
     "color": "#173b50",
-    "fontSize": 49,
+    "fontSize": 40,
     "fontWeight": 900,
     "lineHeight": 1.17,
-    "top": 140,
-    "horizontalMargin": 40
+    "top": 128,
+    "horizontalMargin": 48
   },
   "secondary": {
     "color": "#8c5b25",

@@ -15,10 +15,12 @@ Quy chuẩn này thay thế các thông số nền gradient kem trong tài liệ
 
 Font Be Vietnam Pro cục bộ, đầy đủ tiếng Việt, chờ font tải trước render. Các số đo dưới đây dùng trên khung 720×1280.
 
+Kích thước và vị trí hai dòng tên tập, tiêu đề chính được cập nhật theo mẫu `Videos/tap-03-ren-luyen-ky-luat/demo-tieu-de/de-xuat-02.png` người dùng chốt ngày 11/11/2026. Nền, màu và các quy chuẩn còn lại tiếp tục theo bản trước v4.
+
 | Thành phần | Màu | Kiểu / vị trí mẫu |
 |---|---|---|
-| Tên tập / tên series | `#9b6019` | 23 px, 900, top 80, giữa khung |
-| Tiêu đề chính | `#173b50` | 49 px, 900, line-height 1.17, top 140, lề 40 |
+| Tên tập / tên series | `#9b6019` | 24 px, 800, top 82, giữa khung |
+| Tiêu đề chính | `#173b50` | 40 px, 900, line-height 1.17, top 128, lề 48 |
 | Chữ nhấn phụ | `#8c5b25` | 26–36 px, 900; bố trí theo khoảng trống cảnh |
 | Chữ phụ đề | `#ffffff` | 32 px, 800, line-height 1.28, giữa ô |
 | Ô phụ đề | `#15344a` | lề ngang 46, bottom 145, padding 18×22, bo góc 22 |
