@@ -1,0 +1,12 @@
+{
+  "cueCount": 96,
+  "allCueTextUnchanged": true,
+  "nonOverlappingCues": true,
+  "coverage": 0.989,
+  "sourceDurationSeconds": 266.370563,
+  "peak": 0.8750882148742676,
+  "rms": 0.07087859357117897,
+  "clippedSamples": 0,
+  "samples": 4261914,
+  "note": "Khớp ASR và số liệu âm lượng không xác nhận phát âm; cần nghe rà."
+}

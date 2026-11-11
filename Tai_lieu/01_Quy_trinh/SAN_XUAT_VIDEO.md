@@ -67,6 +67,7 @@ Mỗi cảnh trong `storyboard.json` cần có:
 - Tên asset, số tư thế, kích thước thật, vùng cắt của từng tư thế, điểm chạm chân và vị trí đạo cụ.
 - Icon minh họa nếu phù hợp: ý nghĩa, kiểu dáng, vị trí, thời điểm xuất hiện/kết thúc và tương tác với nhân vật hoặc lời dẫn.
 - Chữ ngắn trên màn hình; ghi rõ biểu đồ chỉ minh họa nếu không dùng dữ liệu thật.
+- Bảng tỷ lệ nhân vật theo cỡ cảnh và điểm sàn; mốc, cách và thời lượng chuyển từng cặp cảnh theo `Tai_lieu/01_Quy_trinh/CHUYEN_DONG_NHAN_VAT.md`.
 
 Tốc độ tạm của video trước là 3,8 đơn vị tách bằng khoảng trắng/giây, chỉ để dựng nhịp sơ bộ cho tiếng Việt. Không lấy đây làm tốc độ đọc bắt buộc. Người đọc có thể thu tự nhiên rồi căn lại.
 
@@ -114,6 +115,8 @@ Mẫu mô tả ảnh tại `Tai_lieu/03_Bieu_mau/MAU_YEU_CAU_ASSET.md`. Các ả
 - Đo điểm chạm chân theo tư thế; không dùng khoảng trắng cuối ảnh làm điểm sàn. Script `measure-ground.py` hiện là helper riêng cho bộ ảnh vàng và dùng màu giày tối để ước lượng: khi dùng lại phải đổi danh sách asset, kiểm tra kết quả bằng mắt và hiệu chỉnh khi màu/đạo cụ làm sai phép đo.
 - Vùng nhìn phải chứa đủ đỉnh mũ, lông mũ, chân và đạo cụ ở mọi tư thế. Tăng vùng nhìn phía trên khi cần, đồng thời giữ điểm sàn; không áp dụng một crop cố định gây cắt mũ ở cảnh kết.
 - Neo phép scale/zoom vào điểm chạm đất để góc cận không nhấc chân. Giữ nhân vật cùng mặt phẳng; đạo cụ có tiền cảnh phải có quan hệ không gian rõ.
+- Dùng bảng tỷ lệ từng nhân vật theo `Tai_lieu/02_Quy_chuan/HINH_ANH.md` cho mọi cảnh cùng cỡ và cùng mặt phẳng; không fit nguyên ảnh theo khung rồi làm nhân vật lớn nhỏ thất thường. Ngoại lệ do góc máy/cỡ cảnh phải ghi trong storyboard; ảnh nhiều nhân vật không đúng tương quan phải sửa asset.
+- Chuyển giữa các cảnh theo demo đã thống nhất: hình cũ mờ ra 4 frame trước mốc cắt, hình mới hiện dần 4 frame sau mốc ở 30 fps; giữ nền, đường sàn, tiêu đề và phụ đề theo timeline, không chồng hình nhân vật. Điều chỉnh theo nội dung nếu cần và ghi trong storyboard; không cắt lời, rối chữ hay tăng thời lượng ngoài ý muốn. Kiểm tra khoảng hiển thị thực tế của cảnh; cảnh nội dung không quá 10 giây. Thẻ kết giữ thông số riêng.
 - Không dùng bộ lọc alpha như cách duy nhất để sửa nền trắng đục. Bộ lọc chỉ hỗ trợ loại phần viền bán trong suốt sau khi asset đã được tách nền; kiểm tra không mất chi tiết giáp trắng hoặc mũ bạc.
 - Hiệu ứng có lý do, xuất hiện và kết thúc đúng lúc. Bỏ các vòng/spark vô nghĩa giữa hai nhân vật hoặc hiệu ứng lặp gây phân tâm.
 - Phụ đề trong vùng an toàn, không che tay/đạo cụ. Chữ ngắn trên hình phục vụ ý chính. Chừa khoảng cách dòng cho dấu tiếng Việt; ẩn ô phụ đề ở khoảng nghỉ không có câu.
@@ -128,6 +131,8 @@ Rà thời lượng từng phân cảnh trên timeline và kiểm tra trong MP4 
 Lập bảng kiểm kê toàn bộ cảnh theo thời gian, ID asset và tư thế/ô ảnh; đánh dấu những asset hoặc tư thế lặp, kể cả khi đã đổi chữ, lật hay phóng/cắt ảnh. Xem contact sheet theo thứ tự và đối chiếu MP4 để phát hiện cảnh quá giống nhau. Thay bằng hình/tư thế/hành động riêng phù hợp nội dung, rồi kiểm tra lại thời lượng và hình ảnh. Nếu thực sự cần lặp để kể chuyện, ghi rõ vị trí và lý do trong `qa/` và báo cho người dùng khi bàn giao; không coi việc đổi giữa vài ảnh lặp là đạt yêu cầu đa dạng.
 
 Với từng cảnh, rà tất cả trạng thái và khung chuyển tiếp trên contact sheet, rồi xem đoạn render theo tốc độ thực, đặc biệt lúc đổi tư thế và tiếp xúc đạo cụ/nhân vật. Sửa hiện tượng giật, đổi hình dạng, thừa tay, tay rời, đạo cụ nhảy hoặc nhân vật trượt/nổi khỏi sàn; bổ sung hình trung gian nếu cần. Ghi cảnh đã xem và lỗi/giới hạn còn lại trong `qa/`. Kiểm tra tự động mã ảnh và điểm cắt không đủ để kết luận chuyển động mượt; không gọi chuỗi ảnh là hoạt hình liên tục hay lip-sync nếu chưa thực sự có.
+
+Đối chiếu tỷ lệ thực tế giữa các cảnh cùng cỡ và giữa các nhân vật với bảng tỷ lệ của tập, kiểm tra điểm sàn và ngoại lệ có chủ đích. Xem các mốc chuyển phân cảnh ở tốc độ thực, rà bóng đôi, giật hình, cắt lời, chữ chồng và thời lượng; ghi rõ nếu chưa thể xem trực tiếp. Sau khi căn giọng, cập nhật mốc chuyển và kiểm tra lại.
 
 Rà icon trong từng cảnh có sử dụng: đúng ý, dễ thấy, không che nội dung quan trọng hoặc bị cắt; không lưu lại nhầm sang cảnh sau, không lặp gây rối và không tạo tay/đạo cụ lỗi. Kiểm tra mốc xuất hiện so với phụ đề và giọng thực tế khi đã có bản thu.
 

@@ -1,0 +1,18 @@
+{
+  "durationSeconds": 15,
+  "width": 720,
+  "height": 1280,
+  "frames": 450,
+  "fps": "30/1",
+  "audioStreams": 0,
+  "cutsAtFrames": [
+    257,
+    336
+  ],
+  "characterTargetHeightPx": 450,
+  "transition": "4 frames fade out, 4 frames fade in; no image overlap",
+  "limitations": [
+    "Khung tĩnh không chứng minh độ mượt khi phát thực tế",
+    "Đoạn thử kết thúc giữa cue lời dẫn tiếp theo"
+  ]
+}

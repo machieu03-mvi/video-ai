@@ -1,8 +1,8 @@
 # Tập 3 — Rèn luyện kỷ luật và kiểm soát cảm xúc
 
-**Bản hoạt họa mới nhất (chờ giọng):** `phien-ban-hoat-hoa/out/tap-03-hoat-hoa-cho-giong.mp4`. Chi tiết tài nguyên, mã dựng và kiểm tra trong `phien-ban-hoat-hoa/README.md`. Các mục v3 bên dưới mô tả bản trước, được giữ lại để tham khảo.
+**Bản mới nhất có giọng thử, chờ rà:** `phien-ban-co-giong/out/tap-03-co-giong-elevenlabs.mp4`, SRT `phien-ban-co-giong/src/voice.aligned.srt`. Chi tiết tại `phien-ban-co-giong/README.md`. Bản hoạt họa chưa giọng trước đó lưu tại `phien-ban-hoat-hoa/out/tap-03-hoat-hoa-cho-giong.mp4`. Các mục v3 bên dưới mô tả bản trước, được giữ lại để tham khảo.
 
-Trạng thái: bản hình tạm, chưa có giọng đọc. Kịch bản đầy đủ khoảng 5 phút 42 giây theo timeline dự kiến; Gia Cát Lượng dẫn chuyện, Trương Phi và Quan Vũ minh họa, tên nhân vật không xuất hiện trong lời dẫn. Các mốc thời gian và SRT sẽ căn lại sau khi có giọng.
+Trạng thái hiện hành: đã tạo bản đọc ElevenLabs và căn phụ đề; cần nghe rà phát âm và xem chuyển động ở tốc độ thực. Gia Cát Lượng dẫn chuyện, Trương Phi và Quan Vũ minh họa; giọng thử chưa được chốt cho cả series.
 
 - Kịch bản gốc: `input/kich_ban_goc.txt`; lời dẫn: `input/loi_dan.txt`.
 - SRT dự kiến: `Tap_03_thu_am.srt`; timeline: `src/timeline.json`.

@@ -8,18 +8,19 @@ Sản xuất video tài chính dọc bằng Remotion, giữ bộ năm nhân vậ
 
 ## Hiện trạng có thể kiểm chứng
 
-- Git đã được khởi tạo tại thư mục gốc trên nhánh `main`. Remote `origin` là `https://github.com/machieu03-mvi/video-ai.git`; GitHub hiển thị repository `machieu03-mvi/video-ai` là Private và trống khi kiểm tra. Dùng `git status` và `git log` để xem commit, tệp đã stage hay thay đổi hiện tại. Danh tính commit cục bộ đã dùng tài khoản GitHub với địa chỉ noreply; Git xác thực dòng lệnh chưa kiểm chứng. Repo lồng `Du_an_Vang/stickman-video` có remote `https://github.com/nispa/stickman-video.git`, commit `c2ede0f707559bf9e3d207c3902d64bf3affe8ae`, và một script kiểm tra ElevenLabs chưa theo dõi. Đây là repo nguồn, không phải repo riêng tư của toàn dự án.
+- Git đã được khởi tạo tại thư mục gốc trên nhánh `main`. Remote `origin` là `https://github.com/machieu03-mvi/video-ai.git`; GitHub hiển thị repository là Private. Commit đầu `5541c55` đã được push và đối chiếu khớp với `origin/main` vào 11/11/2026. Dùng `git status` và `git log` để xem thay đổi và trạng thái đồng bộ hiện tại. Repo lồng `Du_an_Vang/stickman-video` có remote `https://github.com/nispa/stickman-video.git`, commit `c2ede0f707559bf9e3d207c3902d64bf3affe8ae`, và một script kiểm tra ElevenLabs chưa theo dõi. Đây là repo nguồn, không phải repo riêng tư của toàn dự án.
 - Một bản sao script kiểm tra ElevenLabs nằm ở `Quy_trinh_video/kiem-tra-elevenlabs.py`; bản trong repo lồng vẫn giữ nguyên. Không có cam kết script lồng sẽ được đồng bộ tự động.
-- Tập 3: `Videos/tap-03-ren-luyen-ky-luat/phien-ban-hoat-hoa/README.md`, storyboard và mã `Du_an_Vang/video-remotion/src/tap03-animation-full.tsx`. MP4 bản hình tạm dài 344,6 giây, 52 cảnh, chờ giọng; báo cáo kỹ thuật `phien-ban-hoat-hoa/qa/kiem-tra-mp4.json`. Phải xem phát lại ở tốc độ thực để duyệt chuyển động; chưa xác nhận đã duyệt.
+- Tập 3: bản mới có giọng thử ElevenLabs tại `Videos/tap-03-ren-luyen-ky-luat/phien-ban-co-giong/README.md`, MP4 `phien-ban-co-giong/out/tap-03-co-giong-elevenlabs.mp4`, SRT `phien-ban-co-giong/src/voice.aligned.srt`; 271,4 giây, 52 cảnh, dài nhất 7,47 giây. ASR khớp 0,989; MP4 có âm thanh và đã kiểm tra 51 điểm chuyển bằng số liệu. Cần nghe rà phát âm và xem phát lại để đánh giá chuyển động; chưa xác nhận đã làm các bước này. Bản hình tạm trước đó giữ tại `phien-ban-hoat-hoa/`.
+- Demo 15 giây về tỷ lệ và chuyển cảnh: `Videos/tap-03-ren-luyen-ky-luat/demo-15s-ty-le/README.md`; MP4 nằm trong `demo-15s-ty-le/out/` và bị loại khỏi Git. Người dùng đã thống nhất cách làm; nguyên tắc tỷ lệ và chuyển cảnh đã áp dụng cho bản Tập 3 có giọng. Bản toàn tập có ảnh riêng thay thế chỗ trùng với cảnh ba của demo. Vẫn cần xem phát thực tế khi kiểm tra từng video.
 - Đã kết xuất bản Tập 3 trước đó, nhưng MP4 và âm thanh được cố ý loại khỏi Git: bản clone sẽ không tự có các tệp này. Đối chiếu `asset-manifest.json` và README của tập trước khi chọn bản.
 - Tệp package và `pnpm-lock.yaml` của Remotion ở `Du_an_Vang/video-remotion/`. Cài lại dependencies trên máy mới; không chuyển `node_modules`, virtualenv hay mô hình cục bộ qua Git.
 - Môi trường máy hiện tại quan sát được: Git 2.56.0, Node.js 24.22.1, pnpm 11.25.0 và Python 3.12.10. Đây là thông tin tham khảo, chưa chứng minh cài đặt sạch thành công trên máy khác.
 
 ## Việc tiếp theo
 
-1. Đã tạo và kết nối repo GitHub private; chủ dự án cấp quyền cho từng tài khoản khác khi cần. Xác thực Git qua dòng lệnh chưa được kiểm chứng.
-2. Rà lại danh sách tệp/secret và chỉ push lần đầu sau khi được phê duyệt riêng, theo `DONG_BO.md`. `git diff --cached --check` đã phát hiện cảnh báo whitespace có sẵn, gồm dòng trống cuối tệp, xuống dòng Markdown và khoảng trắng trong thư viện bên thứ ba; đã rà nhóm cảnh báo nhưng giữ nguyên định dạng gốc. Không tự push, merge hoặc cấp quyền.
-3. Nếu tiếp tục video: xem bản Tập 3, sửa theo phản hồi; sau khi người dùng cấp giọng, căn thời gian, phụ đề và kiểm tra toàn bộ. Không tự tạo giọng khi chưa yêu cầu.
+1. Repo GitHub private đã nhận commit đầu; chủ dự án cấp quyền cho từng tài khoản khác khi cần. Đồng bộ các thay đổi tiếp theo theo `DONG_BO.md` và quy định được người dùng cho phép.
+2. Lần dựng tiếp theo lập bảng tỷ lệ theo cỡ cảnh và rà chuyển cảnh theo quy chuẩn ngày 11/11/2026: Gia Cát Lượng 450 px trên khung 720×1280 cho cảnh toàn thân thông thường, mờ 4 frame ra/4 frame vào ở 30 fps. Chiều cao riêng của bốn nhân vật còn lại chưa chốt; ghi theo ảnh chuẩn trong hồ sơ từng tập. Các tệp cần được commit/push trước khi máy khác nhận được cập nhật mới.
+3. Nếu tiếp tục video: nghe và xem bản Tập 3 có giọng thử, rà phát âm, chuyển động và tỷ lệ từng cảnh; sửa theo phản hồi. Giọng Anh chưa được chốt làm giọng chuẩn cho series.
 
 ## Nhật ký quyết định quan trọng
 
@@ -31,6 +32,12 @@ Sản xuất video tài chính dọc bằng Remotion, giữ bộ năm nhân vậ
 - 2026-11-11: sau khi người dùng đăng nhập, tạo `machieu03-mvi/video-ai`, xác nhận nhãn Private trên GitHub và đặt `origin` trỏ tới repo này. Chưa tải dữ liệu lên.
 - 2026-11-11: đã stage khoảng 572 tệp dự kiến, quét mẫu khóa không báo khớp; rà cảnh báo whitespace như trên và cấu hình danh tính Git cục bộ với email noreply. `pnpm exec tsc --noEmit` thành công. Không xem quét mẫu là chứng minh an toàn.
 - 2026-11-11: thêm bản sao giấy phép MIT của repo nguồn cạnh các tệp engine được sao chép trong `Du_an_Vang/video-remotion/src/stickman/LICENSE`.
+- 2026-11-11: cập nhật quy trình giữ tỷ lệ nhân vật giữa các cảnh và kiểm tra chuyển cảnh mượt; không thay đổi video hoặc tự đặt số đo chưa được phê duyệt.
+- 2026-11-11: dựng demo 15 giây không tiếng theo mốc Tập 3; neo chiều cao Gia Cát Lượng 450 px ở ba cảnh, chuyển hình mờ ra/vào không chồng nhân vật; xác minh MP4 450 frame, 720×1280, 30 fps, không audio và rà khung tĩnh. Chưa đánh giá phát thực tế.
+- 2026-11-11: người dùng thống nhất cách làm demo 15 giây; cập nhật mốc tỷ lệ Gia Cát Lượng và thời gian chuyển giữa cảnh vào quy trình. Chưa thay bản toàn tập hoặc tự coi chiều cao của bốn nhân vật khác đã được chốt.
+- 2026-11-11: theo yêu cầu, tạo giọng Anh Eleven v4 trên giao diện ElevenLabs, căn 96 cue và 52 cảnh, bổ sung asset riêng cảnh 10, xuất MP4 có giọng; kiểm tra đầu/cuối và 51 điểm chuyển. Chưa nghe kiểm tra phát âm hoặc xác nhận chuyển động mượt ở tốc độ thực.
+- 2026-11-11: thay asset cảnh 5–6 bằng hình gọn hơn để cải thiện tỷ lệ nhân vật; đã xuất lại MP4 và kiểm tra 52 cảnh, 51 mốc chuyển bằng số liệu, audio có tín hiệu ở đầu và cuối, cùng ảnh hai cảnh trích từ chính MP4. Chưa nghe hoặc xem toàn bộ ở tốc độ thực.
+- 2026-11-11: chuẩn bị bàn giao theo yêu cầu; đã fetch và kiểm tra nhánh gốc cùng remote trước khi commit, TypeScript đạt và kiểm tra lại MP4 271,4 giây, 52 cảnh, 51 mốc chuyển, audio đầu/cuối có tín hiệu. Dùng `git status` và lịch sử remote để xác nhận đồng bộ thực tế.
 
 ## Quy tắc cập nhật
 

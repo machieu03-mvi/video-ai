@@ -1,0 +1,220 @@
+{
+  "durationSeconds": 271.403,
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "audioStreams": 1,
+  "audioPeak": 0.8744934797286987,
+  "sceneCount": 52,
+  "maxSceneSeconds": 7.466666666666667,
+  "outroFrame": 8052,
+  "cutChecks": [
+    {
+      "frame": 179,
+      "meanPixelChange": 65.104
+    },
+    {
+      "frame": 244,
+      "meanPixelChange": 68.706
+    },
+    {
+      "frame": 468,
+      "meanPixelChange": 53.713
+    },
+    {
+      "frame": 536,
+      "meanPixelChange": 57.655
+    },
+    {
+      "frame": 674,
+      "meanPixelChange": 53.656
+    },
+    {
+      "frame": 804,
+      "meanPixelChange": 58.022
+    },
+    {
+      "frame": 931,
+      "meanPixelChange": 51.744
+    },
+    {
+      "frame": 1139,
+      "meanPixelChange": 36.871
+    },
+    {
+      "frame": 1279,
+      "meanPixelChange": 59.256
+    },
+    {
+      "frame": 1437,
+      "meanPixelChange": 53.28
+    },
+    {
+      "frame": 1602,
+      "meanPixelChange": 87.4
+    },
+    {
+      "frame": 1761,
+      "meanPixelChange": 86.843
+    },
+    {
+      "frame": 1957,
+      "meanPixelChange": 58.199
+    },
+    {
+      "frame": 2101,
+      "meanPixelChange": 67.348
+    },
+    {
+      "frame": 2286,
+      "meanPixelChange": 63.184
+    },
+    {
+      "frame": 2482,
+      "meanPixelChange": 49.869
+    },
+    {
+      "frame": 2676,
+      "meanPixelChange": 77.162
+    },
+    {
+      "frame": 2846,
+      "meanPixelChange": 72.455
+    },
+    {
+      "frame": 3068,
+      "meanPixelChange": 67.988
+    },
+    {
+      "frame": 3262,
+      "meanPixelChange": 70.538
+    },
+    {
+      "frame": 3478,
+      "meanPixelChange": 65.691
+    },
+    {
+      "frame": 3600,
+      "meanPixelChange": 71.517
+    },
+    {
+      "frame": 3752,
+      "meanPixelChange": 48.997
+    },
+    {
+      "frame": 3926,
+      "meanPixelChange": 56.987
+    },
+    {
+      "frame": 4028,
+      "meanPixelChange": 51.471
+    },
+    {
+      "frame": 4161,
+      "meanPixelChange": 54.627
+    },
+    {
+      "frame": 4291,
+      "meanPixelChange": 29.53
+    },
+    {
+      "frame": 4470,
+      "meanPixelChange": 61.343
+    },
+    {
+      "frame": 4592,
+      "meanPixelChange": 73.985
+    },
+    {
+      "frame": 4765,
+      "meanPixelChange": 69.396
+    },
+    {
+      "frame": 4883,
+      "meanPixelChange": 24.37
+    },
+    {
+      "frame": 5062,
+      "meanPixelChange": 66.894
+    },
+    {
+      "frame": 5270,
+      "meanPixelChange": 58.09
+    },
+    {
+      "frame": 5441,
+      "meanPixelChange": 61.757
+    },
+    {
+      "frame": 5552,
+      "meanPixelChange": 64.234
+    },
+    {
+      "frame": 5698,
+      "meanPixelChange": 65.348
+    },
+    {
+      "frame": 5838,
+      "meanPixelChange": 58.139
+    },
+    {
+      "frame": 5971,
+      "meanPixelChange": 60.627
+    },
+    {
+      "frame": 6181,
+      "meanPixelChange": 44.47
+    },
+    {
+      "frame": 6258,
+      "meanPixelChange": 51.07
+    },
+    {
+      "frame": 6441,
+      "meanPixelChange": 16.147
+    },
+    {
+      "frame": 6663,
+      "meanPixelChange": 43.687
+    },
+    {
+      "frame": 6808,
+      "meanPixelChange": 62.046
+    },
+    {
+      "frame": 6977,
+      "meanPixelChange": 63.594
+    },
+    {
+      "frame": 7049,
+      "meanPixelChange": 49.849
+    },
+    {
+      "frame": 7200,
+      "meanPixelChange": 73.978
+    },
+    {
+      "frame": 7316,
+      "meanPixelChange": 53.944
+    },
+    {
+      "frame": 7468,
+      "meanPixelChange": 63.088
+    },
+    {
+      "frame": 7589,
+      "meanPixelChange": 57.575
+    },
+    {
+      "frame": 7745,
+      "meanPixelChange": 67.333
+    },
+    {
+      "frame": 7876,
+      "meanPixelChange": 79.771
+    }
+  ],
+  "limitations": [
+    "So sánh điểm ảnh và waveform không chứng minh phát âm hay chuyển động mượt khi xem thực tế."
+  ]
+}

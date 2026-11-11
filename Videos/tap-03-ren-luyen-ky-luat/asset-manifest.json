@@ -1,7 +1,7 @@
 {
-  "status": "awaiting_audio",
-  "currentOutput": "phien-ban-hoat-hoa/out/tap-03-hoat-hoa-cho-giong.mp4",
-  "durationSeconds": 344.6,
+  "status": "audio_aligned_awaiting_review",
+  "currentOutput": "phien-ban-co-giong/out/tap-03-co-giong-elevenlabs.mp4",
+  "durationSeconds": 271.4,
   "characters": [
     "Gia Cát Lượng",
     "Trương Phi",
@@ -286,10 +286,22 @@
       ]
     }
   },
-  "storyboard": "phien-ban-hoat-hoa/storyboard.json",
-  "previousOutput": "out/tap-03-da-dang-phan-canh.mp4",
-  "previousStoryboard": "storyboard-v3.json",
-  "currentComposition": "Du_an_Vang/video-remotion/src/tap03-animation-full.tsx",
+  "storyboard": "phien-ban-co-giong/storyboard.json",
+  "previousOutput": "phien-ban-hoat-hoa/out/tap-03-hoat-hoa-cho-giong.mp4",
+  "previousStoryboard": "phien-ban-hoat-hoa/storyboard.json",
+  "currentComposition": "Du_an_Vang/video-remotion/src/tap03-voice-final.tsx",
   "currentAssets": "Du_an_Vang/video-remotion/public/tap03-animation-full/",
-  "currentQa": "phien-ban-hoat-hoa/qa/kiem-tra-mp4.json"
+  "currentQa": "phien-ban-co-giong/qa/kiem-tra-video.json",
+  "voice": {
+    "status": "trial_not_series_standard",
+    "name": "Anh - Warm, Calm and Deep",
+    "voiceId": "ywBZEqUhld86Jeajq94o",
+    "model": "Eleven v4",
+    "source": "elevenlabs_ui",
+    "stability": 0.5,
+    "similarity": 0.75,
+    "audio": "input/elevenlabs-tap03-v4.mp3",
+    "srt": "phien-ban-co-giong/src/voice.aligned.srt",
+    "asrCoverage": 0.989
+  }
 }

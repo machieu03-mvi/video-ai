@@ -6,11 +6,11 @@ GitHub và ChatGPT là hai tài khoản độc lập. Mỗi người có tài kh
 
 ## Chuẩn bị trên máy đầu tiên — chỉ sau khi được phê duyệt
 
-1. Repo `machieu03-mvi/video-ai` đã được tạo **private** và còn trống; chủ dự án cấp quyền cho từng tài khoản qua giao diện GitHub khi cần; có thể bật bảo vệ nhánh. Xác minh trạng thái private và quyền trước khi đưa mã lên. Chưa có GitHub CLI trên máy này tại thời điểm thiết lập.
+1. Repo `machieu03-mvi/video-ai` đã được tạo **private** và nhận commit đầu; chủ dự án cấp quyền cho từng tài khoản qua giao diện GitHub khi cần; có thể bật bảo vệ nhánh. Xác minh trạng thái private và quyền trước khi đưa mã lên. Chưa có GitHub CLI trên máy này tại thời điểm thiết lập.
 2. Git gốc đã được khởi tạo trên nhánh `main`; không chạy lại bước này trên repo đã có lịch sử. Cấu hình danh tính Git cá nhân bằng `git config user.name` và `git config user.email`. Không nhập token vào lệnh, URL remote, file hay hội thoại; dùng trình quản lý xác thực hoặc SSH của từng người.
 3. Chạy `python Quan_ly_du_an/kiem_tra.py`, kiểm tra `git status --short --ignored`, đọc kỹ các tệp định đưa lên, quét bí mật bằng công cụ phù hợp. Script chỉ là lớp kiểm tra mẫu, không chứng minh không có bí mật. Dữ liệu nội bộ dù repo private vẫn cần chủ sở hữu xem xét.
 4. Stage có chọn lọc, `git diff --cached --check`, `git diff --cached --stat`, chạy lại `python Quan_ly_du_an/kiem_tra.py`. Tự kiểm tra nội dung diff và test liên quan. Bảo đảm mọi file cần dùng nằm trong repo hoặc có phương án chuyển riêng. Commit tại mốc phù hợp, không commit các dữ liệu không được phép.
-5. Sau phê duyệt push lần đầu: `origin` đã được cấu hình; xác nhận lại bằng `git remote -v`, sau đó `git push -u origin main` khi nhánh sạch, không xung đột và được phép. Nếu remote có commit sẵn, dừng để xử lý theo lịch sử thực tế; không force push.
+5. `origin` và upstream `main` đã được cấu hình sau lần push đầu. Với các lần đồng bộ sau, xác nhận remote, trạng thái và lịch sử hai phía, sau đó push nhánh phù hợp khi được phép; không ghi đè thay đổi người khác hoặc force push. Nếu có commit từ người khác, xử lý lịch sử thực tế trước khi push.
 
 Không đưa repo `Du_an_Vang/stickman-video/.git` vào repo gốc hay stage một repo lồng như thư mục thông thường. Clone lại đúng commit theo mục khôi phục bên dưới. Mọi thay đổi ở repo lồng cần được bàn giao riêng; file chưa theo dõi `scripts/check_elevenlabs.py` đã có bản sao ở `Quy_trinh_video/kiem-tra-elevenlabs.py`.
 

@@ -2,6 +2,8 @@
 
 | Ngày | Phạm vi | Nội dung |
 |---|---|---|
+| 11/11/2026 | Chốt demo 15 giây | Chọn mốc Gia Cát Lượng 450 px trên khung 720×1280 cho cảnh toàn thân và chuyển hình 4 frame ra/4 frame vào ở 30 fps. |
+| 11/11/2026 | Tỷ lệ và chuyển cảnh | Lập bảng tỷ lệ nhân vật theo cỡ cảnh và điểm sàn; bổ sung thiết kế, dựng và kiểm tra chuyển cảnh mượt theo lời dẫn. |
 | 10/11/2026 | Giọng đọc | Bổ sung tạo giọng ElevenLabs theo yêu cầu, giới hạn API/giao diện, căn mốc với faster-whisper và xuất MP4/SRT. Giọng Tập 2 là bản thử. |
 | 10/11/2026 | Thư viện ảnh | Chuyển năm ảnh chuẩn sang `Tai_lieu/05_Nhan_vat/`; gom hai ảnh mẫu mở đầu cũ vào `Tai_lieu/06_Bia/luu_tru_mau_cu/`; cập nhật đường dẫn tham chiếu và chỉ mục. |
 | 10/11/2026 | Quy chuẩn hình ảnh | Chốt bản Trương Phi ngay trước v4: nền giấy sáng, tiêu đề xanh đậm, chữ phụ nâu vàng, phụ đề trắng trên ô xanh. |

@@ -34,6 +34,12 @@ Theo `Tai_lieu/02_Quy_chuan/NHAN_VAT.md` và năm ảnh hiện hành trong `Tai_
 
 Tọa độ mẫu là bố cục xuất phát, không phải crop bắt buộc cho mọi asset. Đo kích thước và baseline của ảnh mới; bố trí để chữ không che đầu/tay/đạo cụ. Rà mọi tư thế và kiểm tra nền/màu chữ trong MP4 xuất ra, không chỉ ảnh preview. Khi xuất 1080×1920, scale đồng bộ bố cục.
 
+**Tỷ lệ nhân vật giữa các cảnh:** Theo demo 15 giây đã được người dùng thống nhất, lấy Gia Cát Lượng cao **450 px** từ đỉnh mũ đến điểm chạm chân trên khung **720×1280** làm mốc cho cỡ cảnh toàn thân thông thường; tương đương khoảng **35,16% chiều cao khung**, hay **675 px** trên khung 1080×1920 được scale đồng bộ. Đây là mốc cho Gia Cát Lượng, không mặc định cả năm nhân vật cùng cao 450 px. Đo chiều cao nhân vật, không tính lông mũ hay đạo cụ dài, rồi scale đồng đều cả asset và neo vào điểm sàn.
+
+Trước khi dựng, lập bảng tỷ lệ cho từng nhân vật xuất hiện trong tập theo ảnh tham chiếu hiện hành, tương quan với mốc trên và cùng một cỡ cảnh chuẩn. Lưu số đo theo tỷ lệ khung hình, vị trí chân và tỷ lệ tương đối giữa các nhân vật trong `asset-manifest.json` hoặc hồ sơ tập. Các cảnh cùng cỡ, cùng mặt phẳng và góc máy phải dùng lại các số đo đó; không tự thay đổi chỉ vì mỗi file có kích thước hoặc khoảng trong suốt khác nhau. Trong cảnh nhiều người, giữ tương quan chiều cao đã lập và điểm chạm sàn của từng người.
+
+Chỉ thay đổi kích thước hiển thị có chủ đích khi đổi cỡ cảnh/góc máy hoặc thể hiện khoảng cách, theo storyboard; cùng cảnh vẫn giữ tỷ lệ cơ thể và quan hệ giữa các nhân vật ở cùng mặt phẳng. Chuyển động zoom phải đồng bộ cả cảnh và có điểm neo phù hợp. Không kéo giãn riêng chiều ngang hay dọc, không cắt mũ hoặc đạo cụ để ép bằng chiều cao. Bốn nhân vật còn lại chưa có số đo cố định riêng được chốt; xác lập theo ảnh chuẩn và ghi rõ trong hồ sơ từng tập.
+
 Thông số máy đọc: `Quy_trinh_video/visual-profile.json`.
 
 ## Slogan cuối video
