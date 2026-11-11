@@ -1,0 +1,629 @@
+{
+  "timeline": "src/timeline.json",
+  "cueIndices": "zero-based",
+  "scenes": [
+    {
+      "end": 7,
+      "asset": "scene0",
+      "title": "Bắt đầu từ đâu",
+      "start": 0
+    },
+    {
+      "end": 10,
+      "asset": "scene0",
+      "title": "Một quy tắc nhỏ",
+      "start": 8
+    },
+    {
+      "end": 18,
+      "asset": "scene0",
+      "title": "Đặt điểm dừng lỗ",
+      "start": 11
+    },
+    {
+      "end": 24,
+      "asset": "scene4",
+      "title": "Từng bước một",
+      "start": 19
+    },
+    {
+      "end": 31,
+      "asset": "scene1",
+      "title": "Bảng kiểm tra",
+      "start": 25
+    },
+    {
+      "end": 39,
+      "asset": "scene1",
+      "title": "Ba câu hỏi",
+      "start": 32
+    },
+    {
+      "end": 42,
+      "asset": "scene1",
+      "title": "Chưa đạt thì dừng",
+      "start": 40
+    },
+    {
+      "end": 47,
+      "asset": "scene2",
+      "title": "Khi cảm xúc dâng cao",
+      "start": 43
+    },
+    {
+      "end": 54,
+      "asset": "scene2",
+      "title": "Dừng lại ba giây",
+      "start": 48
+    },
+    {
+      "end": 63,
+      "asset": "scene2",
+      "title": "Thở hình hộp",
+      "start": 55
+    },
+    {
+      "end": 69,
+      "asset": "scene2",
+      "title": "Bình tĩnh quan sát",
+      "start": 64
+    },
+    {
+      "end": 74,
+      "asset": "scene1",
+      "title": "Đặt câu hỏi đúng",
+      "start": 70
+    },
+    {
+      "end": 80,
+      "asset": "scene3",
+      "title": "Quy tắc ngắt giao dịch",
+      "start": 75
+    },
+    {
+      "end": 86,
+      "asset": "scene3",
+      "title": "Dừng theo kế hoạch",
+      "start": 81
+    },
+    {
+      "end": 90,
+      "asset": "scene3",
+      "title": "Bảo vệ tài khoản",
+      "start": 87
+    },
+    {
+      "end": 95,
+      "asset": "scene4",
+      "title": "Kỷ luật từng bước",
+      "start": 91
+    }
+  ],
+  "outro": {
+    "durationSeconds": 3,
+    "text": "Hiểu đúng để đi xa hơn"
+  },
+  "visualBeats": [
+    {
+      "cue": 0,
+      "frame": 0,
+      "sheet": "scene0",
+      "pose": 0,
+      "durationFrames": 257,
+      "startSeconds": 0.0,
+      "durationSeconds": 8.567,
+      "action": "Minh họa: Ở tập trước, chúng ta đã nói rằng kỷ luật giống như một cơ bắp:"
+    },
+    {
+      "cue": 2,
+      "frame": 257,
+      "sheet": "scene0",
+      "pose": 1,
+      "durationFrames": 79,
+      "startSeconds": 8.567,
+      "durationSeconds": 2.633,
+      "action": "Minh họa: Nhưng nên bắt đầu từ đâu?"
+    },
+    {
+      "cue": 3,
+      "frame": 336,
+      "sheet": "scene7",
+      "pose": 0,
+      "durationFrames": 226,
+      "startSeconds": 11.2,
+      "durationSeconds": 7.533,
+      "action": "Trương Phi bị quá tải bởi nhiều bảng quy tắc"
+    },
+    {
+      "cue": 5,
+      "frame": 562,
+      "sheet": "scene7",
+      "pose": 1,
+      "durationFrames": 123,
+      "startSeconds": 18.733,
+      "durationSeconds": 4.1,
+      "action": "Quan Vũ khích lệ Trương Phi kiên nhẫn với đồng hồ cát"
+    },
+    {
+      "cue": 6,
+      "frame": 685,
+      "sheet": "scene2",
+      "pose": 0,
+      "durationFrames": 183,
+      "startSeconds": 22.833,
+      "durationSeconds": 6.1,
+      "action": "Minh họa: Khi không làm được tất cả,"
+    },
+    {
+      "cue": 8,
+      "frame": 868,
+      "sheet": "scene7",
+      "pose": 2,
+      "durationFrames": 192,
+      "startSeconds": 28.933,
+      "durationSeconds": 6.4,
+      "action": "Quan Vũ hướng dẫn tập với tạ nhẹ"
+    },
+    {
+      "cue": 10,
+      "frame": 1060,
+      "sheet": "scene5",
+      "pose": 0,
+      "durationFrames": 166,
+      "startSeconds": 35.333,
+      "durationSeconds": 5.533,
+      "action": "Minh họa: Trong hai tuần tới, hãy chọn một quy tắc nhỏ và tập trung thực hiện nó."
+    },
+    {
+      "cue": 11,
+      "frame": 1226,
+      "sheet": "scene0",
+      "pose": 2,
+      "durationFrames": 261,
+      "startSeconds": 40.867,
+      "durationSeconds": 8.7,
+      "action": "Minh họa: Ví dụ: luôn đặt điểm dừng lỗ khi vào lệnh."
+    },
+    {
+      "cue": 14,
+      "frame": 1487,
+      "sheet": "scene0",
+      "pose": 3,
+      "durationFrames": 185,
+      "startSeconds": 49.567,
+      "durationSeconds": 6.167,
+      "action": "Minh họa: Thậm chí, giá có thể chạm điểm dừng lỗ rồi quay đầu đi đúng hướng bạn dự đoán."
+    },
+    {
+      "cue": 15,
+      "frame": 1672,
+      "sheet": "scene14",
+      "pose": 3,
+      "durationFrames": 209,
+      "startSeconds": 55.733,
+      "durationSeconds": 6.967,
+      "action": "Gia Cát Lượng và Trương Phi kiểm tra kế hoạch"
+    },
+    {
+      "cue": 17,
+      "frame": 1881,
+      "sheet": "scene8",
+      "pose": 0,
+      "durationFrames": 201,
+      "startSeconds": 62.7,
+      "durationSeconds": 6.7,
+      "action": "Ghi nhận việc thực hiện được quy tắc"
+    },
+    {
+      "cue": 19,
+      "frame": 2082,
+      "sheet": "scene4",
+      "pose": 0,
+      "durationFrames": 200,
+      "startSeconds": 69.4,
+      "durationSeconds": 6.667,
+      "action": "Minh họa: Khi đã quen với quy tắc đầu tiên,"
+    },
+    {
+      "cue": 21,
+      "frame": 2282,
+      "sheet": "scene17",
+      "pose": 0,
+      "durationFrames": 227,
+      "startSeconds": 76.067,
+      "durationSeconds": 7.567,
+      "action": "Từng bước rèn luyện kỷ luật"
+    },
+    {
+      "cue": 23,
+      "frame": 2509,
+      "sheet": "scene5",
+      "pose": 1,
+      "durationFrames": 202,
+      "startSeconds": 83.633,
+      "durationSeconds": 6.733,
+      "action": "Minh họa: Trước khi vào lệnh,"
+    },
+    {
+      "cue": 25,
+      "frame": 2711,
+      "sheet": "scene15",
+      "pose": 0,
+      "durationFrames": 253,
+      "startSeconds": 90.367,
+      "durationSeconds": 8.433,
+      "action": "Quan Vũ và Trương Phi xem bảng kiểm tra"
+    },
+    {
+      "cue": 28,
+      "frame": 2964,
+      "sheet": "scene9",
+      "pose": 2,
+      "durationFrames": 278,
+      "startSeconds": 98.8,
+      "durationSeconds": 9.267,
+      "action": "Quan sát biến động và nhận ra cảm xúc"
+    },
+    {
+      "cue": 31,
+      "frame": 3242,
+      "sheet": "scene8",
+      "pose": 1,
+      "durationFrames": 272,
+      "startSeconds": 108.067,
+      "durationSeconds": 9.067,
+      "action": "Viết bảng kiểm tra trước khi giao dịch"
+    },
+    {
+      "cue": 33,
+      "frame": 3514,
+      "sheet": "scene8",
+      "pose": 2,
+      "durationFrames": 209,
+      "startSeconds": 117.133,
+      "durationSeconds": 6.967,
+      "action": "Quan sát xu hướng trên biểu đồ"
+    },
+    {
+      "cue": 35,
+      "frame": 3723,
+      "sheet": "scene8",
+      "pose": 3,
+      "durationFrames": 270,
+      "startSeconds": 124.1,
+      "durationSeconds": 9.0,
+      "action": "Xem vị trí giá trên biểu đồ"
+    },
+    {
+      "cue": 38,
+      "frame": 3993,
+      "sheet": "scene15",
+      "pose": 2,
+      "durationFrames": 245,
+      "startSeconds": 133.1,
+      "durationSeconds": 8.167,
+      "action": "Kiểm tra rủi ro và điểm dừng lỗ"
+    },
+    {
+      "cue": 40,
+      "frame": 4238,
+      "sheet": "scene9",
+      "pose": 0,
+      "durationFrames": 271,
+      "startSeconds": 141.267,
+      "durationSeconds": 9.033,
+      "action": "Đọc bảng kiểm tra trước khi bấm chuột"
+    },
+    {
+      "cue": 42,
+      "frame": 4509,
+      "sheet": "scene15",
+      "pose": 3,
+      "durationFrames": 167,
+      "startSeconds": 150.3,
+      "durationSeconds": 5.567,
+      "action": "Quan Vũ nhắc dừng khi chưa đạt điều kiện"
+    },
+    {
+      "cue": 43,
+      "frame": 4676,
+      "sheet": "scene9",
+      "pose": 1,
+      "durationFrames": 165,
+      "startSeconds": 155.867,
+      "durationSeconds": 5.5,
+      "action": "Phản ứng khi biểu đồ biến động mạnh"
+    },
+    {
+      "cue": 45,
+      "frame": 4841,
+      "sheet": "scene3",
+      "pose": 0,
+      "durationFrames": 263,
+      "startSeconds": 161.367,
+      "durationSeconds": 8.767,
+      "action": "Minh họa: Bạn nhìn thấy một cây nến mạnh và có cảm giác rằng mình phải hành động ngay."
+    },
+    {
+      "cue": 47,
+      "frame": 5104,
+      "sheet": "scene13",
+      "pose": 3,
+      "durationFrames": 140,
+      "startSeconds": 170.133,
+      "durationSeconds": 4.667,
+      "action": "Trương Phi lo lắng trước biểu đồ và được nhắc bình tĩnh"
+    },
+    {
+      "cue": 48,
+      "frame": 5244,
+      "sheet": "scene2",
+      "pose": 1,
+      "durationFrames": 157,
+      "startSeconds": 174.8,
+      "durationSeconds": 5.233,
+      "action": "Minh họa: Trong khoảnh khắc đó, hãy thử dừng lại ba giây."
+    },
+    {
+      "cue": 50,
+      "frame": 5401,
+      "sheet": "scene2",
+      "pose": 3,
+      "durationFrames": 123,
+      "startSeconds": 180.033,
+      "durationSeconds": 4.1,
+      "action": "Minh họa: Thả lỏng bàn tay."
+    },
+    {
+      "cue": 52,
+      "frame": 5524,
+      "sheet": "scene2",
+      "pose": 2,
+      "durationFrames": 236,
+      "startSeconds": 184.133,
+      "durationSeconds": 7.867,
+      "action": "Minh họa: Khoảng dừng này cho bạn thêm một chút thời gian để nhận ra:"
+    },
+    {
+      "cue": 54,
+      "frame": 5760,
+      "sheet": "scene9",
+      "pose": 3,
+      "durationFrames": 174,
+      "startSeconds": 192.0,
+      "durationSeconds": 5.8,
+      "action": "Gia Cát Lượng gợi ý dừng lại và suy nghĩ"
+    },
+    {
+      "cue": 56,
+      "frame": 5934,
+      "sheet": "scene10",
+      "pose": 1,
+      "durationFrames": 236,
+      "startSeconds": 197.8,
+      "durationSeconds": 7.867,
+      "action": "Rời mắt khỏi màn hình và bình tĩnh"
+    },
+    {
+      "cue": 58,
+      "frame": 6170,
+      "sheet": "scene6",
+      "pose": 1,
+      "durationFrames": 157,
+      "startSeconds": 205.667,
+      "durationSeconds": 5.233,
+      "action": "Minh họa: Hít vào chậm rãi trong bốn nhịp."
+    },
+    {
+      "cue": 60,
+      "frame": 6327,
+      "sheet": "scene6",
+      "pose": 2,
+      "durationFrames": 201,
+      "startSeconds": 210.9,
+      "durationSeconds": 6.7,
+      "action": "Minh họa: Thở ra từ từ trong bốn nhịp."
+    },
+    {
+      "cue": 62,
+      "frame": 6528,
+      "sheet": "scene10",
+      "pose": 2,
+      "durationFrames": 236,
+      "startSeconds": 217.6,
+      "durationSeconds": 7.867,
+      "action": "Thực hành thở chậm cùng Quan Vũ"
+    },
+    {
+      "cue": 64,
+      "frame": 6764,
+      "sheet": "scene6",
+      "pose": 3,
+      "durationFrames": 245,
+      "startSeconds": 225.467,
+      "durationSeconds": 8.167,
+      "action": "Minh họa: Khi đã bình tĩnh hơn,"
+    },
+    {
+      "cue": 66,
+      "frame": 7009,
+      "sheet": "scene10",
+      "pose": 3,
+      "durationFrames": 149,
+      "startSeconds": 233.633,
+      "durationSeconds": 4.967,
+      "action": "Quan sát cách nói chuyện với bản thân"
+    },
+    {
+      "cue": 67,
+      "frame": 7158,
+      "sheet": "scene11",
+      "pose": 0,
+      "durationFrames": 192,
+      "startSeconds": 238.6,
+      "durationSeconds": 6.4,
+      "action": "Thất vọng khi biểu đồ đi ngược dự đoán"
+    },
+    {
+      "cue": 69,
+      "frame": 7350,
+      "sheet": "scene11",
+      "pose": 2,
+      "durationFrames": 158,
+      "startSeconds": 245.0,
+      "durationSeconds": 5.267,
+      "action": "Quan sát biểu đồ với góc nhìn khách quan"
+    },
+    {
+      "cue": 70,
+      "frame": 7508,
+      "sheet": "scene13",
+      "pose": 0,
+      "durationFrames": 156,
+      "startSeconds": 250.267,
+      "durationSeconds": 5.2,
+      "action": "Cùng xem dữ liệu trong nhật ký giao dịch"
+    },
+    {
+      "cue": 72,
+      "frame": 7664,
+      "sheet": "scene11",
+      "pose": 3,
+      "durationFrames": 272,
+      "startSeconds": 255.467,
+      "durationSeconds": 9.067,
+      "action": "Ghi lại thông tin để xem xét sau"
+    },
+    {
+      "cue": 74,
+      "frame": 7936,
+      "sheet": "scene12",
+      "pose": 0,
+      "durationFrames": 113,
+      "startSeconds": 264.533,
+      "durationSeconds": 3.767,
+      "action": "Gia Cát Lượng động viên khi Trương Phi thất vọng"
+    },
+    {
+      "cue": 75,
+      "frame": 8049,
+      "sheet": "scene13",
+      "pose": 2,
+      "durationFrames": 219,
+      "startSeconds": 268.3,
+      "durationSeconds": 7.3,
+      "action": "Quan Vũ ra hiệu tạm ngừng giao dịch"
+    },
+    {
+      "cue": 77,
+      "frame": 8268,
+      "sheet": "scene3",
+      "pose": 1,
+      "durationFrames": 279,
+      "startSeconds": 275.6,
+      "durationSeconds": 9.3,
+      "action": "Minh họa: Lệnh đầu tiên thua."
+    },
+    {
+      "cue": 80,
+      "frame": 8547,
+      "sheet": "scene3",
+      "pose": 2,
+      "durationFrames": 174,
+      "startSeconds": 284.9,
+      "durationSeconds": 5.8,
+      "action": "Minh họa: Đó là lúc cần dừng lại."
+    },
+    {
+      "cue": 82,
+      "frame": 8721,
+      "sheet": "scene12",
+      "pose": 2,
+      "durationFrames": 210,
+      "startSeconds": 290.7,
+      "durationSeconds": 7.0,
+      "action": "Dừng theo giới hạn hai lệnh thua minh họa"
+    },
+    {
+      "cue": 84,
+      "frame": 8931,
+      "sheet": "scene3",
+      "pose": 3,
+      "durationFrames": 87,
+      "startSeconds": 297.7,
+      "durationSeconds": 2.9,
+      "action": "Minh họa: hãy đứng dậy và rời khỏi bàn giao dịch."
+    },
+    {
+      "cue": 85,
+      "frame": 9018,
+      "sheet": "scene5",
+      "pose": 2,
+      "durationFrames": 218,
+      "startSeconds": 300.6,
+      "durationSeconds": 7.267,
+      "action": "Minh họa: Bạn có thể đi lấy nước,"
+    },
+    {
+      "cue": 87,
+      "frame": 9236,
+      "sheet": "scene12",
+      "pose": 3,
+      "durationFrames": 158,
+      "startSeconds": 307.867,
+      "durationSeconds": 5.267,
+      "action": "Kiểm tra kế hoạch và giới hạn rủi ro"
+    },
+    {
+      "cue": 88,
+      "frame": 9394,
+      "sheet": "scene14",
+      "pose": 1,
+      "durationFrames": 166,
+      "startSeconds": 313.133,
+      "durationSeconds": 5.533,
+      "action": "Suy nghĩ và chuẩn bị kế hoạch trước"
+    },
+    {
+      "cue": 89,
+      "frame": 9560,
+      "sheet": "scene14",
+      "pose": 0,
+      "durationFrames": 166,
+      "startSeconds": 318.667,
+      "durationSeconds": 5.533,
+      "action": "Quan sát thị trường và cơ hội tiếp theo"
+    },
+    {
+      "cue": 91,
+      "frame": 9726,
+      "sheet": "scene17",
+      "pose": 1,
+      "durationFrames": 173,
+      "startSeconds": 324.2,
+      "durationSeconds": 5.767,
+      "action": "Viết một quy tắc nhỏ vào sổ"
+    },
+    {
+      "cue": 93,
+      "frame": 9899,
+      "sheet": "scene10",
+      "pose": 0,
+      "durationFrames": 166,
+      "startSeconds": 329.967,
+      "durationSeconds": 5.533,
+      "action": "Dừng lại và trấn tĩnh khi cảm xúc dâng cao"
+    },
+    {
+      "cue": 95,
+      "frame": 10065,
+      "sheet": "scene4",
+      "pose": 3,
+      "durationFrames": 183,
+      "startSeconds": 335.5,
+      "durationSeconds": 6.1,
+      "action": "Minh họa: Trong nghề này, bảo vệ tài khoản cũng là một phần của kỷ luật."
+    }
+  ],
+  "visualBeatsNote": "V3: mỗi cảnh một tư thế/ô ảnh riêng, tối đa 10 giây; căn lại sau bản thu."
+}

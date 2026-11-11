@@ -1,0 +1,152 @@
+{
+ "fps": 30,
+ "durationInFrames": 1701,
+ "seconds": 56.7,
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.0,
+   "end": 7.0,
+   "startFrame": 30,
+   "endFrame": 210,
+   "words": 21,
+   "text": "Bạn có từng nghĩ mình không hợp với nghề giao dịch vì bản thân quá cảm xúc và thiếu kỷ luật?"
+  },
+  {
+   "i": 1,
+   "start": 7.85,
+   "end": 11.279,
+   "startFrame": 236,
+   "endFrame": 338,
+   "words": 12,
+   "text": "Hãy nghe kỹ điều này: kỷ luật không phải là tính cách."
+  },
+  {
+   "i": 2,
+   "start": 11.529,
+   "end": 14.671,
+   "startFrame": 346,
+   "endFrame": 440,
+   "words": 11,
+   "text": "Kỷ luật giống như một cơ bắp, cần được rèn luyện."
+  },
+  {
+   "i": 3,
+   "start": 15.521,
+   "end": 18.093,
+   "startFrame": 466,
+   "endFrame": 543,
+   "words": 9,
+   "text": "Hãy tưởng tượng ngày đầu tiên đến phòng gym,"
+  },
+  {
+   "i": 4,
+   "start": 18.343,
+   "end": 21.2,
+   "startFrame": 550,
+   "endFrame": 636,
+   "words": 10,
+   "text": "bạn nhìn thấy người khác nâng tạ một trăm ký."
+  },
+  {
+   "i": 5,
+   "start": 21.45,
+   "end": 22.65,
+   "startFrame": 644,
+   "endFrame": 680,
+   "words": 4,
+   "text": "Bạn cố làm theo,"
+  },
+  {
+   "i": 6,
+   "start": 22.9,
+   "end": 26.614,
+   "startFrame": 687,
+   "endFrame": 798,
+   "words": 13,
+   "text": "nhưng cơ thể chưa đủ sức và bạn có thể bị chấn thương."
+  },
+  {
+   "i": 7,
+   "start": 27.464,
+   "end": 30.607,
+   "startFrame": 824,
+   "endFrame": 918,
+   "words": 11,
+   "text": "Nhiều người cũng đang làm điều tương tự khi giao dịch."
+  },
+  {
+   "i": 8,
+   "start": 30.857,
+   "end": 33.143,
+   "startFrame": 926,
+   "endFrame": 994,
+   "words": 8,
+   "text": "Họ ép mình phải chờ đúng tín hiệu,"
+  },
+  {
+   "i": 9,
+   "start": 33.393,
+   "end": 36.821,
+   "startFrame": 1002,
+   "endFrame": 1105,
+   "words": 12,
+   "text": "tính toán rủi ro, viết nhật ký và cắt lỗ lạnh lùng…"
+  },
+  {
+   "i": 10,
+   "start": 37.071,
+   "end": 38.5,
+   "startFrame": 1112,
+   "endFrame": 1155,
+   "words": 5,
+   "text": "ngay từ những ngày đầu."
+  },
+  {
+   "i": 11,
+   "start": 39.35,
+   "end": 40.779,
+   "startFrame": 1180,
+   "endFrame": 1223,
+   "words": 5,
+   "text": "Rồi khi không làm được,"
+  },
+  {
+   "i": 12,
+   "start": 41.029,
+   "end": 44.457,
+   "startFrame": 1231,
+   "endFrame": 1334,
+   "words": 12,
+   "text": "họ tự cho rằng mình là người thất bại, thiếu kỷ luật."
+  },
+  {
+   "i": 13,
+   "start": 45.307,
+   "end": 48.45,
+   "startFrame": 1359,
+   "endFrame": 1454,
+   "words": 11,
+   "text": "Không đâu. Có thể bạn chỉ đang tập sai phương pháp."
+  },
+  {
+   "i": 14,
+   "start": 49.3,
+   "end": 53.014,
+   "startFrame": 1479,
+   "endFrame": 1590,
+   "words": 13,
+   "text": "Để xây dựng kỷ luật, hãy bắt đầu từ một quy tắc nhỏ,"
+  },
+  {
+   "i": 15,
+   "start": 53.264,
+   "end": 54.693,
+   "startFrame": 1598,
+   "endFrame": 1641,
+   "words": 5,
+   "text": "rồi luyện tập từng bước."
+  }
+ ],
+ "chapters": []
+}

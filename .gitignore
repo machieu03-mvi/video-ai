@@ -1,0 +1,39 @@
+# Máy cục bộ, môi trường, khóa và thông tin đăng nhập
+.env
+.env.*
+!.env.example
+.envrc
+/.codex/
+/.aws/
+credentials*.json
+token*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+**/node_modules/
+**/.venv*/
+**/venv/
+**/__pycache__/
+**/.models/
+**/.cache/
+**/.hyperframes/
+**/.DS_Store
+**/Thumbs.db
+
+# Kết xuất, bản thu, bản xem trước và dữ liệu kiểm thử có thể tái tạo
+**/out/
+**/qa/frames/
+*.ppm
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+
+# Repo nguồn bên trong có lịch sử riêng: clone riêng theo hướng dẫn.
+/Du_an_Vang/stickman-video/

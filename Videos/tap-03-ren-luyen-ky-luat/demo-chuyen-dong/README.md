@@ -1,0 +1,12 @@
+# Demo chuyển động 20 giây đầu — Tập 3
+
+- Bản thử riêng, không thay thế video Tập 3 hiện hành; không có giọng đọc.
+- Video: `out/demo-20-giay.mp4`; bảng kiểm tra frame: `qa/contact.jpg`; metadata và kiểm tra đổi tư thế: `qa/video-check.json`.
+- Bản thử thêm khung trung gian: `out/demo-20-giay-khung-trung-gian.mp4`; bố cục và tư thế kiểm tra tại `qa/contact-v2.jpg`, metadata tại `qa/video-check-v2.json`. Thành phần riêng `Du_an_Vang/video-remotion/src/tap03-demo-motion-v2.tsx`; bản ban đầu được giữ lại để đối chiếu.
+- 720×1280, 30 fps, 600 frame; phụ đề và mốc theo timeline tạm của tập gốc. Kết thúc giữa câu vì đây là trích đoạn đúng 20 giây.
+- Ba cảnh: rèn luyện với tạ nhẹ (0–8,57 giây), tìm điểm bắt đầu (8,57–11,2 giây), nhiều quy tắc cùng lúc (11,2–20 giây). Mỗi cảnh dùng bốn tư thế vẽ sẵn; có một chuyển động thở rất nhẹ neo theo sàn. Không dùng rig tay rời hoặc khẩu hình.
+- Thành phần Remotion: `Du_an_Vang/video-remotion/src/tap03-demo-motion.tsx`; hình: `public/tap03-demo-motion/shot0.png`, `shot1.png`, `shot2.png` trong dự án Remotion. Ảnh được tạo bằng imagegen tích hợp dựa trên ảnh chuẩn Trương Phi và Gia Cát Lượng; lần chỉnh sửa tách nền và căn chân được lưu trong asset cuối.
+- Mô tả tạo hình: từng sheet gồm bốn khung cùng bố cục, camera và tỷ lệ, nhân vật có hai tay; lần lượt mô tả nâng tạ với quân sư khích lệ, đặt câu hỏi với bảng, và đọc nhiều bảng kiểm rồi được quân sư nhắc dừng. Không có bóng xanh, không nền trắng hay chữ trong ảnh.
+- Không gắn outro vào trích đoạn giữa video. Thời gian/chuyển động sẽ phải căn lại khi nhận giọng đọc.
+- Đã kiểm tra độ dài, 600 frame, không có audio và khác biệt hình ảnh tại 17 mốc đổi trạng thái; chưa xác nhận chuyển động liên tục bằng cách xem phát lại ở tốc độ thực. Chuyển động chính là thay đổi tư thế vẽ sẵn, không phải hoạt hình xương.
+- Bản thêm khung trung gian vẫn dài 20 giây, không audio; dùng thêm `shot0-between.png`, `shot1-between.png`, `shot2-between.png` trong `public/tap03-demo-motion/`, tạo bằng imagegen tích hợp từ sheet của từng cảnh. Yêu cầu tạo các tư thế giữa các trạng thái nâng tạ, đưa tay lên cằm/chỉ bảng, và nâng/hạ tay ở bàn giấy; giữ nguyên nhân vật, trang phục, vị trí, đạo cụ, nền trong suốt và đúng hai tay. Đã rà 12 khung trung gian và kiểm tra 37 mốc thay tư thế trong MP4. Đây vẫn là hoạt họa giới hạn bằng chuỗi ảnh, chưa phải chuyển động khớp liên tục; cần xem video thực tế để đánh giá độ mượt.

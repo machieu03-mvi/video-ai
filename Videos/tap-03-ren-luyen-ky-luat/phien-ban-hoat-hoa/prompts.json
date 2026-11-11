@@ -1,0 +1,307 @@
+{
+  "note": "Lệnh tạo các bảng tư thế, sử dụng công cụ image_gen tích hợp; các bảng pair01 và pair02 được tạo trong đợt thử trước.",
+  "batches": {
+    "full_pairs_1": [
+      {
+        "pair": "05",
+        "scenes": [
+          9,
+          10
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Minh họa: Thậm chí, giá có thể chạm điểm dừng lỗ rồi quay đầu đi đúng hướng bạn dự đoán.. Bottom row represents: Gia Cát Lượng và Trương Phi kiểm tra kế hoạch. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair05.png"
+      },
+      {
+        "pair": "06",
+        "scenes": [
+          11,
+          12
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Ghi nhận việc thực hiện được quy tắc. Bottom row represents: Minh họa: Khi đã quen với quy tắc đầu tiên,. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair06.png"
+      },
+      {
+        "pair": "07",
+        "scenes": [
+          13,
+          14
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Từng bước rèn luyện kỷ luật. Bottom row represents: Minh họa: Trước khi vào lệnh,. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair07.png"
+      },
+      {
+        "pair": "08",
+        "scenes": [
+          15,
+          16
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Quan Vũ và Trương Phi xem bảng kiểm tra. Bottom row represents: Quan sát biến động và nhận ra cảm xúc. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair08.png"
+      }
+    ],
+    "full_pairs_rest": [
+      {
+        "pair": "09",
+        "scenes": [
+          17,
+          18
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Viết bảng kiểm tra trước khi giao dịch. Bottom row represents: Quan sát xu hướng trên biểu đồ. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair09.png"
+      },
+      {
+        "pair": "10",
+        "scenes": [
+          19,
+          20
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Xem vị trí giá trên biểu đồ. Bottom row represents: Kiểm tra rủi ro và điểm dừng lỗ. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair10.png"
+      },
+      {
+        "pair": "11",
+        "scenes": [
+          21,
+          22
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Đọc bảng kiểm tra trước khi bấm chuột. Bottom row represents: Quan Vũ nhắc dừng khi chưa đạt điều kiện. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair11.png"
+      },
+      {
+        "pair": "12",
+        "scenes": [
+          23,
+          24
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Phản ứng khi biểu đồ biến động mạnh. Bottom row represents: Minh họa: Bạn nhìn thấy một cây nến mạnh và có cảm giác rằng mình phải hành động ngay.. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair12.png"
+      },
+      {
+        "pair": "13",
+        "scenes": [
+          25,
+          26
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Trương Phi lo lắng trước biểu đồ và được nhắc bình tĩnh. Bottom row represents: Minh họa: Trong khoảnh khắc đó, hãy thử dừng lại ba giây.. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair13.png"
+      },
+      {
+        "pair": "14",
+        "scenes": [
+          27,
+          28
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Minh họa: Thả lỏng bàn tay.. Bottom row represents: Minh họa: Khoảng dừng này cho bạn thêm một chút thời gian để nhận ra:. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair14.png"
+      },
+      {
+        "pair": "15",
+        "scenes": [
+          29,
+          30
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Gia Cát Lượng gợi ý dừng lại và suy nghĩ. Bottom row represents: Rời mắt khỏi màn hình và bình tĩnh. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair15.png"
+      },
+      {
+        "pair": "16",
+        "scenes": [
+          31,
+          32
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Minh họa: Hít vào chậm rãi trong bốn nhịp.. Bottom row represents: Minh họa: Thở ra từ từ trong bốn nhịp.. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair16.png"
+      },
+      {
+        "pair": "17",
+        "scenes": [
+          33,
+          34
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Thực hành thở chậm cùng Quan Vũ. Bottom row represents: Minh họa: Khi đã bình tĩnh hơn,. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair17.png"
+      },
+      {
+        "pair": "18",
+        "scenes": [
+          35,
+          36
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Quan sát cách nói chuyện với bản thân. Bottom row represents: Thất vọng khi biểu đồ đi ngược dự đoán. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair18.png"
+      },
+      {
+        "pair": "19",
+        "scenes": [
+          37,
+          38
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Quan sát biểu đồ với góc nhìn khách quan. Bottom row represents: Cùng xem dữ liệu trong nhật ký giao dịch. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair19.png"
+      },
+      {
+        "pair": "20",
+        "scenes": [
+          39,
+          40
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Ghi lại thông tin để xem xét sau. Bottom row represents: Gia Cát Lượng động viên khi Trương Phi thất vọng. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair20.png"
+      },
+      {
+        "pair": "21",
+        "scenes": [
+          41,
+          42
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Quan Vũ ra hiệu tạm ngừng giao dịch. Bottom row represents: Minh họa: Lệnh đầu tiên thua.. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair21.png"
+      },
+      {
+        "pair": "22",
+        "scenes": [
+          43,
+          44
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Minh họa: Đó là lúc cần dừng lại.. Bottom row represents: Dừng theo giới hạn hai lệnh thua minh họa. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair22.png"
+      },
+      {
+        "pair": "23",
+        "scenes": [
+          45,
+          46
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Minh họa: hãy đứng dậy và rời khỏi bàn giao dịch.. Bottom row represents: Minh họa: Bạn có thể đi lấy nước,. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair23.png"
+      },
+      {
+        "pair": "24",
+        "scenes": [
+          47,
+          48
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Kiểm tra kế hoạch và giới hạn rủi ro. Bottom row represents: Suy nghĩ và chuẩn bị kế hoạch trước. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair24.png"
+      },
+      {
+        "pair": "25",
+        "scenes": [
+          49,
+          50
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Quan sát thị trường và cơ hội tiếp theo. Bottom row represents: Viết một quy tắc nhỏ vào sổ. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair25.png"
+      },
+      {
+        "pair": "26",
+        "scenes": [
+          51,
+          52
+        ],
+        "prompt": "Create one 2D animation sprite sheet with EXACTLY TWO ROWS AND THREE COLUMNS, 6 isolated cells. Input 1 is the exact composition reference for top row, input 2 for bottom row; use ONLY central illustrated characters and their objects and ignore all text, title, subtitle, background and floor line from those screenshots. Images 3,4,5 are the approved character models. Top row represents: Dừng lại và trấn tĩnh khi cảm xúc dâng cao. Bottom row represents: Minh họa: Trong nghề này, bảo vệ tài khoản cũng là một phần của kỷ luật.. EACH ROW independently depicts THREE sequential states of the SAME scene: first observe/prepare, second make a small action, third react or complete. Within each row keep exactly the SAME characters, their relative locations, scale, costume, shoes, props, their positions and camera. Only change expression and natural hand gestures appropriate to the idea; preserve identity. All figures fully visible with hats and feet and all props within their own cell. Exactly two naturally attached arms per person; hands correctly connected to sleeves, no floating limbs, no duplicates. Transparent alpha background, no haze, no floor shadow, no blue oval, no dividers, no caption, no typography, no image overflow. Bold navy outline and vibrant colors exactly matching reference chibi sheets.",
+        "file": "C:/Users/OS/Documents/ChatGPT/Video AI/Du_an_Vang/video-remotion/public/tap03-animation-full/pair26.png"
+      }
+    ],
+    "motion_between_first": [
+      {
+        "id": "01",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "02",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "05",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "06",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      }
+    ],
+    "motion_between_rest": [
+      {
+        "id": "07",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "08",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "09",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "10",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "11",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "12",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "13",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "14",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "15",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "16",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "17",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "18",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "19",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "20",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "21",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "22",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "23",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "24",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "25",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      },
+      {
+        "id": "26",
+        "prompt": "Edit this two-row three-column sprite sheet to draw genuinely NEW in-between frames of the two independent scenes. Each row retains exactly the same two characters, positions, body sizes, costumes, hats, hair, camera, feet on ground, table and all props, as its original row. Within EACH row: in column 1 draw a slight gesture starting from original column 1 toward original column 2; in column 2 draw the animated hand approximately halfway between original columns 1 and 2, still naturally connected at shoulder and elbow; in column 3 draw a hand and expression halfway between original columns 2 and 3. These need to be visibly distinct from each original column, not copies, but no jump to a completely different pose. No crossfade, no ghost or detached hands, exactly two anatomically attached arms per character. Preserve the full 2 by 3 grid, every character and prop fully visible and proportionate; real clean transparent alpha, no shadows, no borders, no words or captions."
+      }
+    ]
+  }
+}

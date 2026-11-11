@@ -1,0 +1,383 @@
+1
+00:00:01,000 --> 00:00:05,412
+Ở tập trước, chúng ta đã nói rằng kỷ luật giống như một cơ bắp:
+
+2
+00:00:05,662 --> 00:00:07,721
+muốn mạnh lên thì phải luyện tập.
+
+3
+00:00:08,571 --> 00:00:10,335
+Nhưng nên bắt đầu từ đâu?
+
+4
+00:00:11,185 --> 00:00:14,126
+Nhiều người đặt ra rất nhiều quy tắc cùng lúc.
+
+5
+00:00:14,376 --> 00:00:18,494
+Phải chờ đúng tín hiệu, phải tính toán rủi ro, phải ghi nhật ký,
+
+6
+00:00:18,744 --> 00:00:21,979
+phải kiên nhẫn, và phải bình tĩnh trong mọi tình huống.
+
+7
+00:00:22,829 --> 00:00:24,594
+Khi không làm được tất cả,
+
+8
+00:00:24,844 --> 00:00:28,079
+họ thất vọng và cho rằng mình không có kỷ luật.
+
+9
+00:00:28,929 --> 00:00:31,576
+Nhưng nếu muốn xây dựng cơ bắp kỷ luật,
+
+10
+00:00:31,826 --> 00:00:34,474
+hãy bắt đầu từ một mức tạ nhẹ hơn.
+
+11
+00:00:35,324 --> 00:00:40,029
+Trong hai tuần tới, hãy chọn một quy tắc nhỏ và tập trung thực hiện nó.
+
+12
+00:00:40,879 --> 00:00:43,821
+Ví dụ: luôn đặt điểm dừng lỗ khi vào lệnh.
+
+13
+00:00:44,671 --> 00:00:47,024
+Bạn có thể phân tích sai xu hướng.
+
+14
+00:00:47,274 --> 00:00:49,332
+Bạn có thể chọn sai điểm vào.
+
+15
+00:00:49,582 --> 00:00:54,876
+Thậm chí, giá có thể chạm điểm dừng lỗ rồi quay đầu đi đúng hướng bạn dự đoán.
+
+16
+00:00:55,726 --> 00:00:58,962
+Nhưng nếu bạn đã đặt điểm dừng lỗ theo kế hoạch,
+
+17
+00:00:59,212 --> 00:01:01,859
+bạn đã thực hiện được điều mình đặt ra.
+
+18
+00:01:02,709 --> 00:01:05,356
+Sau mỗi lần như vậy, hãy ghi nhận rằng:
+
+19
+00:01:05,606 --> 00:01:08,547
+“Hôm nay, mình đã giữ lời hứa với bản thân.”
+
+20
+00:01:09,397 --> 00:01:11,750
+Khi đã quen với quy tắc đầu tiên,
+
+21
+00:01:12,000 --> 00:01:15,824
+bạn có thể tiếp tục thêm quy tắc thứ hai, rồi thứ ba.
+
+22
+00:01:16,074 --> 00:01:20,191
+Kỷ luật được xây dựng từng bước, qua những việc nhỏ được lặp lại.
+
+23
+00:01:21,041 --> 00:01:23,394
+Nhưng có quy tắc thôi vẫn chưa đủ.
+
+24
+00:01:23,644 --> 00:01:24,844
+Trước khi vào lệnh,
+
+25
+00:01:25,094 --> 00:01:29,506
+bạn cần một cách để kiểm tra xem mình có đang làm đúng hay không.
+
+26
+00:01:30,356 --> 00:01:31,826
+Hãy nghĩ đến phi công.
+
+27
+00:01:32,076 --> 00:01:33,276
+Trước khi cất cánh,
+
+28
+00:01:33,526 --> 00:01:37,938
+họ sử dụng một bảng kiểm tra để xem lại từng điều kiện cần thiết.
+
+29
+00:01:38,788 --> 00:01:40,259
+Với giao dịch cũng vậy.
+
+30
+00:01:40,509 --> 00:01:43,744
+Khi thị trường biến động nhanh và cảm xúc dâng cao,
+
+31
+00:01:43,994 --> 00:01:47,229
+bạn có thể quên những điều mình đã lên kế hoạch.
+
+32
+00:01:48,079 --> 00:01:52,785
+Vì thế, hãy viết ra một bảng kiểm tra và đặt nó ngay trước màn hình.
+
+33
+00:01:53,635 --> 00:01:56,282
+Bạn có thể bắt đầu bằng ba câu hỏi.
+
+34
+00:01:57,132 --> 00:01:59,779
+Thứ nhất: Xu hướng lớn hiện tại là gì?
+
+35
+00:02:00,029 --> 00:02:03,265
+Lệnh này có phù hợp với chiến lược của mình không?
+
+36
+00:02:04,115 --> 00:02:06,762
+Thứ hai: Vị trí giá hiện tại ở đâu?
+
+37
+00:02:07,012 --> 00:02:09,659
+Bạn có đang mua ngay sát vùng kháng cự,
+
+38
+00:02:09,909 --> 00:02:12,262
+hoặc bán ngay sát vùng hỗ trợ không?
+
+39
+00:02:13,112 --> 00:02:17,818
+Thứ ba: Rủi ro và lợi nhuận dự kiến có phù hợp với kế hoạch không?
+
+40
+00:02:18,068 --> 00:02:20,421
+Điểm dừng lỗ đã được xác định chưa?
+
+41
+00:02:21,271 --> 00:02:25,094
+Trước khi bấm chuột, hãy đọc từng câu hỏi và tự trả lời.
+
+42
+00:02:25,944 --> 00:02:30,062
+Nếu một điều kiện bắt buộc chưa được đáp ứng, hãy buông chuột ra.
+
+43
+00:02:30,312 --> 00:02:35,018
+Không vào một lệnh chưa đủ tiêu chuẩn cũng là một cách tuân thủ kỷ luật.
+
+44
+00:02:35,868 --> 00:02:39,397
+Tuy nhiên, sẽ có những lúc thị trường biến động quá nhanh.
+
+45
+00:02:39,647 --> 00:02:41,118
+Giá giật lên, giật xuống.
+
+46
+00:02:41,368 --> 00:02:46,368
+Bạn nhìn thấy một cây nến mạnh và có cảm giác rằng mình phải hành động ngay.
+
+47
+00:02:47,218 --> 00:02:49,276
+Mua ngay, nếu không sẽ bỏ lỡ!
+
+48
+00:02:50,126 --> 00:02:53,950
+Hoặc đóng lệnh ngay, vì bạn đang sợ giá tiếp tục đi ngược!
+
+49
+00:02:54,800 --> 00:02:57,741
+Trong khoảnh khắc đó, hãy thử dừng lại ba giây.
+
+50
+00:02:58,591 --> 00:02:59,791
+Buông chuột ra.
+
+51
+00:03:00,041 --> 00:03:01,241
+Thả lỏng bàn tay.
+
+52
+00:03:02,091 --> 00:03:03,291
+Một… hai… ba…
+
+53
+00:03:04,141 --> 00:03:07,965
+Khoảng dừng này cho bạn thêm một chút thời gian để nhận ra:
+
+54
+00:03:08,215 --> 00:03:11,744
+hành động mình sắp thực hiện có nằm trong kế hoạch không,
+
+55
+00:03:11,994 --> 00:03:15,229
+hay chỉ xuất phát từ sự sợ hãi và nóng vội?
+
+56
+00:03:16,079 --> 00:03:17,550
+Nếu vẫn đang căng thẳng,
+
+57
+00:03:17,800 --> 00:03:21,918
+bạn có thể rời mắt khỏi màn hình và tập trung vào hơi thở.
+
+58
+00:03:22,768 --> 00:03:24,826
+Hãy thử kỹ thuật thở hình hộp.
+
+59
+00:03:25,676 --> 00:03:27,735
+Hít vào chậm rãi trong bốn nhịp.
+
+60
+00:03:28,585 --> 00:03:30,056
+Giữ hơi trong bốn nhịp.
+
+61
+00:03:30,906 --> 00:03:32,965
+Thở ra từ từ trong bốn nhịp.
+
+62
+00:03:33,815 --> 00:03:36,756
+Sau đó nghỉ bốn nhịp trước khi hít vào lại.
+
+63
+00:03:37,606 --> 00:03:40,253
+Lặp lại vài vòng với tốc độ thoải mái.
+
+64
+00:03:40,503 --> 00:03:44,621
+Nếu thấy chóng mặt hoặc khó chịu, hãy dừng lại và thở bình thường.
+
+65
+00:03:45,471 --> 00:03:46,941
+Khi đã bình tĩnh hơn,
+
+66
+00:03:47,191 --> 00:03:52,779
+bạn có thể quay lại xem xét tình huống và thực hiện theo kế hoạch giao dịch của mình.
+
+67
+00:03:53,629 --> 00:03:57,747
+Một điều khác cần chú ý là cách bạn nói chuyện với bản thân.
+
+68
+00:03:58,597 --> 00:04:02,715
+Khi giá đi ngược dự đoán, bạn có thể nghĩ: “Mình lại sai rồi.
+
+69
+00:04:02,965 --> 00:04:04,165
+Mình thật ngu ngốc.”
+
+70
+00:04:05,015 --> 00:04:09,426
+Nhưng thay vì tự trách, hãy thử nhìn tình huống như một người quan sát.
+
+71
+00:04:10,276 --> 00:04:12,629
+Thị trường đang cung cấp thông tin gì?
+
+72
+00:04:12,879 --> 00:04:15,232
+Lệnh này có đúng với kế hoạch không?
+
+73
+00:04:15,482 --> 00:04:18,424
+Mình cần ghi lại điều gì để xem xét sau?
+
+74
+00:04:19,274 --> 00:04:24,274
+Thay đổi cách đặt câu hỏi có thể giúp bạn chú ý đến việc mình cần làm,
+
+75
+00:04:24,524 --> 00:04:27,465
+thay vì chỉ tập trung vào cảm giác thất vọng.
+
+76
+00:04:28,315 --> 00:04:31,550
+Và cuối cùng, bạn cần một quy tắc ngắt giao dịch.
+
+77
+00:04:32,400 --> 00:04:35,341
+Hãy tưởng tượng bạn vừa có một ngày mệt mỏi.
+
+78
+00:04:35,591 --> 00:04:36,791
+Lệnh đầu tiên thua.
+
+79
+00:04:37,041 --> 00:04:38,512
+Lệnh thứ hai cũng thua.
+
+80
+00:04:38,762 --> 00:04:44,056
+Bạn bắt đầu nóng giận và muốn vào thêm một lệnh thật lớn để gỡ lại tất cả.
+
+81
+00:04:44,906 --> 00:04:46,671
+Đó là lúc cần dừng lại.
+
+82
+00:04:47,521 --> 00:04:50,462
+Một ví dụ trong kịch bản này là quy tắc:
+
+83
+00:04:50,712 --> 00:04:54,241
+sau hai lệnh thua liên tiếp, ngừng mở lệnh mới trong ngày.
+
+84
+00:04:55,091 --> 00:04:57,444
+Khi chạm đến giới hạn đã đặt ra,
+
+85
+00:04:57,694 --> 00:05:00,341
+hãy đứng dậy và rời khỏi bàn giao dịch.
+
+86
+00:05:00,591 --> 00:05:02,356
+Bạn có thể đi lấy nước,
+
+87
+00:05:02,606 --> 00:05:07,018
+đi lại hoặc làm một việc khác để cho bản thân thời gian bình tĩnh.
+
+88
+00:05:07,868 --> 00:05:12,868
+Số lượng lệnh thua và giới hạn dừng cần phù hợp với kế hoạch của từng người.
+
+89
+00:05:13,118 --> 00:05:17,824
+Điều quan trọng là xác định chúng trước khi bước vào trạng thái mất kiểm soát.
+
+90
+00:05:18,674 --> 00:05:21,026
+Cơ hội giao dịch vẫn sẽ xuất hiện.
+
+91
+00:05:21,276 --> 00:05:23,335
+Nhưng vốn của bạn có giới hạn.
+
+92
+00:05:24,185 --> 00:05:27,126
+Vì vậy, hãy bắt đầu từ một quy tắc nhỏ.
+
+93
+00:05:27,376 --> 00:05:29,729
+Dùng bảng kiểm tra trước khi vào lệnh.
+
+94
+00:05:29,979 --> 00:05:32,038
+Dừng lại khi cảm xúc dâng cao.
+
+95
+00:05:32,288 --> 00:05:34,641
+Và biết khi nào cần ngừng giao dịch.
+
+96
+00:05:35,491 --> 00:05:39,609
+Trong nghề này, bảo vệ tài khoản cũng là một phần của kỷ luật.

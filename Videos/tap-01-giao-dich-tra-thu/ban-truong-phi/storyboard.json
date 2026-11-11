@@ -1,0 +1,88 @@
+{
+  "character": "Trương Phi",
+  "cueIndices": "zero-based",
+  "timeline": "../src/timeline.json",
+  "scenes": [
+    {
+      "scene": 0,
+      "cueStart": 0,
+      "cueEnd": 0,
+      "asset": "analysis",
+      "poses": [
+        0,
+        1
+      ],
+      "action": "Suy nghĩ trước biểu đồ"
+    },
+    {
+      "scene": 1,
+      "cueStart": 1,
+      "cueEnd": 3,
+      "asset": "analysis",
+      "poses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "action": "Đọc phân tích, bấm chuột và tự tin"
+    },
+    {
+      "scene": 2,
+      "cueStart": 4,
+      "cueEnd": 6,
+      "asset": "stop",
+      "poses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "action": "Bất ngờ với nến giảm rồi bật tăng"
+    },
+    {
+      "scene": 3,
+      "cueStart": 7,
+      "cueEnd": 9,
+      "asset": "revenge",
+      "poses": [
+        0,
+        1
+      ],
+      "action": "Đỏ mặt tức giận, siết hai nắm tay"
+    },
+    {
+      "scene": 4,
+      "cueStart": 10,
+      "cueEnd": 12,
+      "asset": "revenge",
+      "poses": [
+        2,
+        3
+      ],
+      "action": "Bấm vào lệnh gỡ và chỉ màn hình"
+    },
+    {
+      "scene": 5,
+      "cueStart": 13,
+      "cueEnd": 15,
+      "asset": "regret",
+      "poses": [
+        0,
+        1,
+        2
+      ],
+      "action": "Thẫn thờ, ôm trán, mở túi tiền rỗng"
+    },
+    {
+      "scene": 6,
+      "cueStart": 16,
+      "cueEnd": 16,
+      "asset": "regret",
+      "poses": [
+        3
+      ],
+      "action": "Hạ giọng, nhận ra cảm xúc chi phối"
+    }
+  ]
+}

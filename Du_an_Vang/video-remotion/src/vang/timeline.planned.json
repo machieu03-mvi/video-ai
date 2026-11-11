@@ -1,0 +1,224 @@
+{
+ "fps": 30,
+ "durationInFrames": 2835,
+ "seconds": 94.5,
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.0,
+   "end": 2.2,
+   "startFrame": 30,
+   "endFrame": 66,
+   "words": 4,
+   "text": "Trên thị trường vàng,"
+  },
+  {
+   "i": 1,
+   "start": 2.45,
+   "end": 6.397,
+   "startFrame": 74,
+   "endFrame": 192,
+   "words": 15,
+   "text": "nhiều người thường chỉ quan tâm đến một câu hỏi: giá sẽ tăng hay giảm?"
+  },
+  {
+   "i": 2,
+   "start": 6.647,
+   "end": 9.016,
+   "startFrame": 199,
+   "endFrame": 270,
+   "words": 9,
+   "text": "Khi giá tăng, họ tìm cơ hội mua vào."
+  },
+  {
+   "i": 3,
+   "start": 9.266,
+   "end": 12.687,
+   "startFrame": 278,
+   "endFrame": 381,
+   "words": 13,
+   "text": "Khi có lợi nhuận, họ hào hứng chờ đợi nhịp tăng tiếp theo."
+  },
+  {
+   "i": 4,
+   "start": 13.537,
+   "end": 14.737,
+   "startFrame": 406,
+   "endFrame": 442,
+   "words": 4,
+   "text": "Trương Phi cũng vậy."
+  },
+  {
+   "i": 5,
+   "start": 14.987,
+   "end": 16.829,
+   "startFrame": 450,
+   "endFrame": 505,
+   "words": 7,
+   "text": "Sau một ngày giao dịch thuận lợi,"
+  },
+  {
+   "i": 6,
+   "start": 17.079,
+   "end": 21.026,
+   "startFrame": 512,
+   "endFrame": 631,
+   "words": 15,
+   "text": "ông phấn khởi khoe với các huynh đệ về khoản lợi nhuận vừa kiếm được."
+  },
+  {
+   "i": 7,
+   "start": 21.276,
+   "end": 22.855,
+   "startFrame": 638,
+   "endFrame": 686,
+   "words": 6,
+   "text": "Với ông, vàng quý vì hiếm,"
+  },
+  {
+   "i": 8,
+   "start": 23.105,
+   "end": 26.263,
+   "startFrame": 693,
+   "endFrame": 788,
+   "words": 12,
+   "text": "vì đẹp và vì có thể mang lại cơ hội kiếm tiền."
+  },
+  {
+   "i": 9,
+   "start": 27.113,
+   "end": 30.008,
+   "startFrame": 813,
+   "endFrame": 900,
+   "words": 11,
+   "text": "Nhưng Quan Vân Trường đặt ra một câu hỏi sâu hơn:"
+  },
+  {
+   "i": 10,
+   "start": 30.258,
+   "end": 32.889,
+   "startFrame": 908,
+   "endFrame": 987,
+   "words": 10,
+   "text": "tại sao vàng lại có giá trị lớn như vậy?"
+  },
+  {
+   "i": 11,
+   "start": 33.139,
+   "end": 38.139,
+   "startFrame": 994,
+   "endFrame": 1144,
+   "words": 19,
+   "text": "Liệu vàng chỉ đơn giản là một món hàng để mua khi giá tăng và bán khi giá giảm?"
+  },
+  {
+   "i": 12,
+   "start": 38.989,
+   "end": 43.726,
+   "startFrame": 1170,
+   "endFrame": 1312,
+   "words": 18,
+   "text": "Gia Cát Lượng cho rằng cách nhìn ấy mới chỉ chạm đến một phần nhỏ của câu chuyện."
+  },
+  {
+   "i": 13,
+   "start": 43.976,
+   "end": 46.345,
+   "startFrame": 1319,
+   "endFrame": 1390,
+   "words": 9,
+   "text": "Vàng không đơn thuần là một loại hàng hóa."
+  },
+  {
+   "i": 14,
+   "start": 46.595,
+   "end": 51.595,
+   "startFrame": 1398,
+   "endFrame": 1548,
+   "words": 19,
+   "text": "Trong hàng nghìn năm lịch sử, vàng đã được sử dụng như một phương tiện lưu giữ giá trị,"
+  },
+  {
+   "i": 15,
+   "start": 51.845,
+   "end": 56.582,
+   "startFrame": 1555,
+   "endFrame": 1697,
+   "words": 18,
+   "text": "một tài sản dự trữ và một thành phần quan trọng trong hệ thống tài chính quốc tế."
+  },
+  {
+   "i": 16,
+   "start": 57.432,
+   "end": 62.695,
+   "startFrame": 1723,
+   "endFrame": 1881,
+   "words": 20,
+   "text": "Khi niềm tin vào tiền tệ suy giảm, lạm phát gia tăng hoặc rủi ro địa chính trị leo thang,"
+  },
+  {
+   "i": 17,
+   "start": 62.945,
+   "end": 66.366,
+   "startFrame": 1888,
+   "endFrame": 1991,
+   "words": 13,
+   "text": "vàng thường trở thành tài sản được nhiều nhà đầu tư tìm đến."
+  },
+  {
+   "i": 18,
+   "start": 67.216,
+   "end": 69.584,
+   "startFrame": 2016,
+   "endFrame": 2088,
+   "words": 9,
+   "text": "Lưu Bị cũng nhấn mạnh một điểm quan trọng:"
+  },
+  {
+   "i": 19,
+   "start": 69.834,
+   "end": 74.308,
+   "startFrame": 2095,
+   "endFrame": 2229,
+   "words": 17,
+   "text": "các ngân hàng trung ương trên thế giới vẫn nắm giữ vàng trong dự trữ ngoại hối."
+  },
+  {
+   "i": 20,
+   "start": 74.558,
+   "end": 77.189,
+   "startFrame": 2237,
+   "endFrame": 2316,
+   "words": 10,
+   "text": "Họ không chỉ quan tâm đến lợi nhuận ngắn hạn,"
+  },
+  {
+   "i": 21,
+   "start": 77.439,
+   "end": 81.124,
+   "startFrame": 2323,
+   "endFrame": 2434,
+   "words": 14,
+   "text": "mà còn chú trọng đến sự an toàn và đa dạng hóa tài sản."
+  },
+  {
+   "i": 22,
+   "start": 81.974,
+   "end": 86.711,
+   "startFrame": 2459,
+   "endFrame": 2601,
+   "words": 18,
+   "text": "Vì vậy, muốn hiểu về vàng, chúng ta cần nhìn xa hơn những biến động giá mỗi ngày:"
+  },
+  {
+   "i": 23,
+   "start": 86.961,
+   "end": 92.487,
+   "startFrame": 2609,
+   "endFrame": 2775,
+   "words": 21,
+   "text": "tìm hiểu cả vai trò của nó trong việc lưu giữ giá trị và trong hệ thống tài chính toàn cầu."
+  }
+ ],
+ "chapters": []
+}

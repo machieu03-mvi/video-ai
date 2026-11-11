@@ -1,0 +1,11 @@
+const {chromium}=require('playwright');
+const {pathToFileURL}=require('url');
+const fs=require('fs');const path=require('path');
+(async()=>{const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',args:['--allow-file-access-from-files']});
+const short=process.argv.includes('--short');
+const page=await browser.newPage({viewport:short?{width:600,height:1000}:{width:1300,height:850}});
+await page.goto(pathToFileURL(path.join(__dirname,short?'mau_short.html':'mau_mo_dau.html')).href);
+const result=await page.evaluate(()=>window.recordSample());
+fs.writeFileSync(path.join(__dirname,short?'mau_short.webm':'mau_mo_dau.webm'),Buffer.from(result,'base64'));
+const coverDir=path.join(__dirname,'../Tai_lieu/06_Bia/luu_tru_mau_cu');fs.mkdirSync(coverDir,{recursive:true});
+await page.screenshot({path:path.join(coverDir,short?'mau_short.png':'mau_mo_dau.png')});await browser.close()})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,159 @@
+{
+  "seconds": 20.0,
+  "width": 720,
+  "height": 1280,
+  "fps": "30/1",
+  "videoFrames": 600,
+  "audioStreams": 0,
+  "numberOfChanges": 37,
+  "poseChanges": [
+    {
+      "frame": 20,
+      "difference": 7.492
+    },
+    {
+      "frame": 26,
+      "difference": 12.946
+    },
+    {
+      "frame": 32,
+      "difference": 9.889
+    },
+    {
+      "frame": 38,
+      "difference": 14.967
+    },
+    {
+      "frame": 44,
+      "difference": 12.367
+    },
+    {
+      "frame": 50,
+      "difference": 13.652
+    },
+    {
+      "frame": 70,
+      "difference": 11.508
+    },
+    {
+      "frame": 76,
+      "difference": 14.979
+    },
+    {
+      "frame": 82,
+      "difference": 15.542
+    },
+    {
+      "frame": 88,
+      "difference": 7.516
+    },
+    {
+      "frame": 127,
+      "difference": 7.508
+    },
+    {
+      "frame": 133,
+      "difference": 12.923
+    },
+    {
+      "frame": 139,
+      "difference": 9.81
+    },
+    {
+      "frame": 145,
+      "difference": 14.967
+    },
+    {
+      "frame": 151,
+      "difference": 12.377
+    },
+    {
+      "frame": 157,
+      "difference": 13.649
+    },
+    {
+      "frame": 180,
+      "difference": 11.483
+    },
+    {
+      "frame": 186,
+      "difference": 15.036
+    },
+    {
+      "frame": 192,
+      "difference": 15.603
+    },
+    {
+      "frame": 198,
+      "difference": 7.571
+    },
+    {
+      "frame": 218,
+      "difference": 16.849
+    },
+    {
+      "frame": 257,
+      "difference": 69.643
+    },
+    {
+      "frame": 266,
+      "difference": 32.254
+    },
+    {
+      "frame": 274,
+      "difference": 7.549
+    },
+    {
+      "frame": 282,
+      "difference": 33.673
+    },
+    {
+      "frame": 291,
+      "difference": 30.923
+    },
+    {
+      "frame": 301,
+      "difference": 32.094
+    },
+    {
+      "frame": 312,
+      "difference": 31.743
+    },
+    {
+      "frame": 322,
+      "difference": 33.788
+    },
+    {
+      "frame": 336,
+      "difference": 81.02
+    },
+    {
+      "frame": 376,
+      "difference": 10.999
+    },
+    {
+      "frame": 427,
+      "difference": 13.814
+    },
+    {
+      "frame": 446,
+      "difference": 16.689
+    },
+    {
+      "frame": 458,
+      "difference": 20.289
+    },
+    {
+      "frame": 470,
+      "difference": 14.121
+    },
+    {
+      "frame": 525,
+      "difference": 25.461
+    },
+    {
+      "frame": 549,
+      "difference": 16.182
+    }
+  ]
+}

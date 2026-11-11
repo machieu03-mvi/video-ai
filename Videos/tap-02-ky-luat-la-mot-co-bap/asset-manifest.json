@@ -1,0 +1,88 @@
+{
+  "status": "audio_aligned",
+  "characters": [
+    "Gia Cát Lượng",
+    "Trương Phi",
+    "Quan Vũ"
+  ],
+  "visualProfile": "Quy_trinh_video/visual-profile.json",
+  "generator": "built-in imagegen",
+  "assets": {
+    "doubt": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        585,
+        585,
+        585,
+        585
+      ]
+    },
+    "gym": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        612,
+        611,
+        611,
+        611
+      ]
+    },
+    "overload": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        616,
+        616,
+        616,
+        616
+      ]
+    },
+    "reassure": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        671,
+        671,
+        672,
+        671
+      ]
+    },
+    "practice": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        560,
+        559,
+        566,
+        559
+      ]
+    }
+  },
+  "outro": {
+    "fadeFrames": 15,
+    "fps": 30,
+    "text": "Hiểu đúng để đi xa hơn",
+    "voice": false,
+    "logo": "Quy_trinh_video/assets/brand/miracle-logo-cach-dieu.png",
+    "startFrame": 1701,
+    "durationFrames": 90,
+    "finalPoseHoldFrames": 60,
+    "totalSeconds": 59.7
+  },
+  "currentOutput": "out/tap-02-giong-elevenlabs.mp4",
+  "audio": {
+    "model": "Eleven v4",
+    "source": "ElevenLabs website",
+    "voice": "Anh - Warm, Calm and Deep",
+    "humanListeningVerified": false,
+    "voice_id": "ywBZEqUhld86Jeajq94o",
+    "file": "input/elevenlabs-anh-v4.mp3",
+    "alignment": "local faster-whisper; coverage 0.976"
+  }
+}

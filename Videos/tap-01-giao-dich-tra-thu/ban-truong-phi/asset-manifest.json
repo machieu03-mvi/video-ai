@@ -1,0 +1,61 @@
+{
+  "character": "Trương Phi",
+  "reference": "Tai_lieu/05_Nhan_vat/Truong_Phi_tham_chieu.png",
+  "status": "awaiting_audio",
+  "generator": "built-in imagegen",
+  "assets": {
+    "analysis": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        637,
+        637,
+        637,
+        637
+      ]
+    },
+    "stop": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        661,
+        661,
+        661,
+        661
+      ]
+    },
+    "revenge": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        677,
+        677,
+        677,
+        677
+      ]
+    },
+    "regret": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        669,
+        668,
+        669,
+        668
+      ]
+    }
+  },
+  "background": "Du_an_Vang/video-remotion/public/tap01-truongphi/nen-giay.png",
+  "subtitleColor": "#ffffff",
+  "titleColor": "#173b50",
+  "secondaryColor": "#8c5b25",
+  "backgroundFilter": "brightness(0.995)",
+  "visualApproval": "approved_pre_v4",
+  "approvedVideo": "out/tap-01-truong-phi-nen-sang-chu-thong-nhat.mp4",
+  "visualProfile": "Quy_trinh_video/visual-profile.json"
+}
+

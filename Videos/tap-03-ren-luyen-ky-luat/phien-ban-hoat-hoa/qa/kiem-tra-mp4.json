@@ -1,0 +1,265 @@
+{
+  "durationSeconds": 344.6,
+  "width": 720,
+  "height": 1280,
+  "audioStreams": 0,
+  "sceneCount": 52,
+  "maxSceneSeconds": 9.3,
+  "cutChecks": [
+    {
+      "frame": 257,
+      "cue": 2,
+      "meanPixelChange": 66.025
+    },
+    {
+      "frame": 336,
+      "cue": 3,
+      "meanPixelChange": 76.929
+    },
+    {
+      "frame": 600,
+      "cue": 5,
+      "meanPixelChange": 71.772
+    },
+    {
+      "frame": 685,
+      "cue": 6,
+      "meanPixelChange": 67.474
+    },
+    {
+      "frame": 868,
+      "cue": 8,
+      "meanPixelChange": 45.418
+    },
+    {
+      "frame": 1060,
+      "cue": 10,
+      "meanPixelChange": 73.156
+    },
+    {
+      "frame": 1226,
+      "cue": 11,
+      "meanPixelChange": 72.237
+    },
+    {
+      "frame": 1487,
+      "cue": 14,
+      "meanPixelChange": 64.461
+    },
+    {
+      "frame": 1672,
+      "cue": 15,
+      "meanPixelChange": 70.708
+    },
+    {
+      "frame": 1881,
+      "cue": 17,
+      "meanPixelChange": 57.76
+    },
+    {
+      "frame": 2082,
+      "cue": 19,
+      "meanPixelChange": 86.567
+    },
+    {
+      "frame": 2282,
+      "cue": 21,
+      "meanPixelChange": 85.966
+    },
+    {
+      "frame": 2509,
+      "cue": 23,
+      "meanPixelChange": 69.045
+    },
+    {
+      "frame": 2711,
+      "cue": 25,
+      "meanPixelChange": 79.803
+    },
+    {
+      "frame": 2964,
+      "cue": 28,
+      "meanPixelChange": 70.16
+    },
+    {
+      "frame": 3242,
+      "cue": 31,
+      "meanPixelChange": 75.02
+    },
+    {
+      "frame": 3514,
+      "cue": 33,
+      "meanPixelChange": 81.542
+    },
+    {
+      "frame": 3723,
+      "cue": 35,
+      "meanPixelChange": 69.351
+    },
+    {
+      "frame": 3993,
+      "cue": 38,
+      "meanPixelChange": 65.656
+    },
+    {
+      "frame": 4238,
+      "cue": 40,
+      "meanPixelChange": 77.223
+    },
+    {
+      "frame": 4509,
+      "cue": 42,
+      "meanPixelChange": 74.848
+    },
+    {
+      "frame": 4676,
+      "cue": 43,
+      "meanPixelChange": 78.165
+    },
+    {
+      "frame": 4841,
+      "cue": 45,
+      "meanPixelChange": 77.258
+    },
+    {
+      "frame": 5104,
+      "cue": 47,
+      "meanPixelChange": 82.956
+    },
+    {
+      "frame": 5244,
+      "cue": 48,
+      "meanPixelChange": 57.988
+    },
+    {
+      "frame": 5401,
+      "cue": 50,
+      "meanPixelChange": 74.62
+    },
+    {
+      "frame": 5524,
+      "cue": 52,
+      "meanPixelChange": 39.446
+    },
+    {
+      "frame": 5760,
+      "cue": 54,
+      "meanPixelChange": 77.251
+    },
+    {
+      "frame": 5934,
+      "cue": 56,
+      "meanPixelChange": 87.029
+    },
+    {
+      "frame": 6170,
+      "cue": 58,
+      "meanPixelChange": 83.266
+    },
+    {
+      "frame": 6327,
+      "cue": 60,
+      "meanPixelChange": 31.987
+    },
+    {
+      "frame": 6528,
+      "cue": 62,
+      "meanPixelChange": 72.423
+    },
+    {
+      "frame": 6764,
+      "cue": 64,
+      "meanPixelChange": 63.536
+    },
+    {
+      "frame": 7009,
+      "cue": 66,
+      "meanPixelChange": 65.819
+    },
+    {
+      "frame": 7158,
+      "cue": 67,
+      "meanPixelChange": 69.943
+    },
+    {
+      "frame": 7350,
+      "cue": 69,
+      "meanPixelChange": 72.362
+    },
+    {
+      "frame": 7508,
+      "cue": 70,
+      "meanPixelChange": 69.12
+    },
+    {
+      "frame": 7664,
+      "cue": 72,
+      "meanPixelChange": 75.29
+    },
+    {
+      "frame": 7936,
+      "cue": 74,
+      "meanPixelChange": 57.368
+    },
+    {
+      "frame": 8049,
+      "cue": 75,
+      "meanPixelChange": 60.88
+    },
+    {
+      "frame": 8268,
+      "cue": 77,
+      "meanPixelChange": 17.581
+    },
+    {
+      "frame": 8547,
+      "cue": 80,
+      "meanPixelChange": 52.634
+    },
+    {
+      "frame": 8721,
+      "cue": 82,
+      "meanPixelChange": 71.272
+    },
+    {
+      "frame": 8931,
+      "cue": 84,
+      "meanPixelChange": 64.566
+    },
+    {
+      "frame": 9018,
+      "cue": 85,
+      "meanPixelChange": 49.102
+    },
+    {
+      "frame": 9236,
+      "cue": 87,
+      "meanPixelChange": 78.069
+    },
+    {
+      "frame": 9394,
+      "cue": 88,
+      "meanPixelChange": 65.269
+    },
+    {
+      "frame": 9560,
+      "cue": 89,
+      "meanPixelChange": 76.934
+    },
+    {
+      "frame": 9726,
+      "cue": 91,
+      "meanPixelChange": 74.025
+    },
+    {
+      "frame": 9899,
+      "cue": 93,
+      "meanPixelChange": 73.026
+    },
+    {
+      "frame": 10065,
+      "cue": 95,
+      "meanPixelChange": 75.738
+    }
+  ]
+}

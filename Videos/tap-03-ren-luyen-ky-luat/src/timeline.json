@@ -1,0 +1,872 @@
+{
+ "fps": 30,
+ "durationInFrames": 10249,
+ "seconds": 341.63,
+ "cues": [
+  {
+   "i": 0,
+   "start": 1.0,
+   "end": 5.412,
+   "startFrame": 30,
+   "endFrame": 162,
+   "words": 15,
+   "text": "Ở tập trước, chúng ta đã nói rằng kỷ luật giống như một cơ bắp:"
+  },
+  {
+   "i": 1,
+   "start": 5.662,
+   "end": 7.721,
+   "startFrame": 170,
+   "endFrame": 232,
+   "words": 7,
+   "text": "muốn mạnh lên thì phải luyện tập."
+  },
+  {
+   "i": 2,
+   "start": 8.571,
+   "end": 10.335,
+   "startFrame": 257,
+   "endFrame": 310,
+   "words": 6,
+   "text": "Nhưng nên bắt đầu từ đâu?"
+  },
+  {
+   "i": 3,
+   "start": 11.185,
+   "end": 14.126,
+   "startFrame": 336,
+   "endFrame": 424,
+   "words": 10,
+   "text": "Nhiều người đặt ra rất nhiều quy tắc cùng lúc."
+  },
+  {
+   "i": 4,
+   "start": 14.376,
+   "end": 18.494,
+   "startFrame": 431,
+   "endFrame": 555,
+   "words": 14,
+   "text": "Phải chờ đúng tín hiệu, phải tính toán rủi ro, phải ghi nhật ký,"
+  },
+  {
+   "i": 5,
+   "start": 18.744,
+   "end": 21.979,
+   "startFrame": 562,
+   "endFrame": 659,
+   "words": 11,
+   "text": "phải kiên nhẫn, và phải bình tĩnh trong mọi tình huống."
+  },
+  {
+   "i": 6,
+   "start": 22.829,
+   "end": 24.594,
+   "startFrame": 685,
+   "endFrame": 738,
+   "words": 6,
+   "text": "Khi không làm được tất cả,"
+  },
+  {
+   "i": 7,
+   "start": 24.844,
+   "end": 28.079,
+   "startFrame": 745,
+   "endFrame": 842,
+   "words": 11,
+   "text": "họ thất vọng và cho rằng mình không có kỷ luật."
+  },
+  {
+   "i": 8,
+   "start": 28.929,
+   "end": 31.576,
+   "startFrame": 868,
+   "endFrame": 947,
+   "words": 9,
+   "text": "Nhưng nếu muốn xây dựng cơ bắp kỷ luật,"
+  },
+  {
+   "i": 9,
+   "start": 31.826,
+   "end": 34.474,
+   "startFrame": 955,
+   "endFrame": 1034,
+   "words": 9,
+   "text": "hãy bắt đầu từ một mức tạ nhẹ hơn."
+  },
+  {
+   "i": 10,
+   "start": 35.324,
+   "end": 40.029,
+   "startFrame": 1060,
+   "endFrame": 1201,
+   "words": 16,
+   "text": "Trong hai tuần tới, hãy chọn một quy tắc nhỏ và tập trung thực hiện nó."
+  },
+  {
+   "i": 11,
+   "start": 40.879,
+   "end": 43.821,
+   "startFrame": 1226,
+   "endFrame": 1315,
+   "words": 10,
+   "text": "Ví dụ: luôn đặt điểm dừng lỗ khi vào lệnh."
+  },
+  {
+   "i": 12,
+   "start": 44.671,
+   "end": 47.024,
+   "startFrame": 1340,
+   "endFrame": 1411,
+   "words": 8,
+   "text": "Bạn có thể phân tích sai xu hướng."
+  },
+  {
+   "i": 13,
+   "start": 47.274,
+   "end": 49.332,
+   "startFrame": 1418,
+   "endFrame": 1480,
+   "words": 7,
+   "text": "Bạn có thể chọn sai điểm vào."
+  },
+  {
+   "i": 14,
+   "start": 49.582,
+   "end": 54.876,
+   "startFrame": 1487,
+   "endFrame": 1646,
+   "words": 18,
+   "text": "Thậm chí, giá có thể chạm điểm dừng lỗ rồi quay đầu đi đúng hướng bạn dự đoán."
+  },
+  {
+   "i": 15,
+   "start": 55.726,
+   "end": 58.962,
+   "startFrame": 1672,
+   "endFrame": 1769,
+   "words": 11,
+   "text": "Nhưng nếu bạn đã đặt điểm dừng lỗ theo kế hoạch,"
+  },
+  {
+   "i": 16,
+   "start": 59.212,
+   "end": 61.859,
+   "startFrame": 1776,
+   "endFrame": 1856,
+   "words": 9,
+   "text": "bạn đã thực hiện được điều mình đặt ra."
+  },
+  {
+   "i": 17,
+   "start": 62.709,
+   "end": 65.356,
+   "startFrame": 1881,
+   "endFrame": 1961,
+   "words": 9,
+   "text": "Sau mỗi lần như vậy, hãy ghi nhận rằng:"
+  },
+  {
+   "i": 18,
+   "start": 65.606,
+   "end": 68.547,
+   "startFrame": 1968,
+   "endFrame": 2056,
+   "words": 10,
+   "text": "“Hôm nay, mình đã giữ lời hứa với bản thân.”"
+  },
+  {
+   "i": 19,
+   "start": 69.397,
+   "end": 71.75,
+   "startFrame": 2082,
+   "endFrame": 2152,
+   "words": 8,
+   "text": "Khi đã quen với quy tắc đầu tiên,"
+  },
+  {
+   "i": 20,
+   "start": 72.0,
+   "end": 75.824,
+   "startFrame": 2160,
+   "endFrame": 2275,
+   "words": 13,
+   "text": "bạn có thể tiếp tục thêm quy tắc thứ hai, rồi thứ ba."
+  },
+  {
+   "i": 21,
+   "start": 76.074,
+   "end": 80.191,
+   "startFrame": 2282,
+   "endFrame": 2406,
+   "words": 14,
+   "text": "Kỷ luật được xây dựng từng bước, qua những việc nhỏ được lặp lại."
+  },
+  {
+   "i": 22,
+   "start": 81.041,
+   "end": 83.394,
+   "startFrame": 2431,
+   "endFrame": 2502,
+   "words": 8,
+   "text": "Nhưng có quy tắc thôi vẫn chưa đủ."
+  },
+  {
+   "i": 23,
+   "start": 83.644,
+   "end": 84.844,
+   "startFrame": 2509,
+   "endFrame": 2545,
+   "words": 4,
+   "text": "Trước khi vào lệnh,"
+  },
+  {
+   "i": 24,
+   "start": 85.094,
+   "end": 89.506,
+   "startFrame": 2553,
+   "endFrame": 2685,
+   "words": 15,
+   "text": "bạn cần một cách để kiểm tra xem mình có đang làm đúng hay không."
+  },
+  {
+   "i": 25,
+   "start": 90.356,
+   "end": 91.826,
+   "startFrame": 2711,
+   "endFrame": 2755,
+   "words": 5,
+   "text": "Hãy nghĩ đến phi công."
+  },
+  {
+   "i": 26,
+   "start": 92.076,
+   "end": 93.276,
+   "startFrame": 2762,
+   "endFrame": 2798,
+   "words": 4,
+   "text": "Trước khi cất cánh,"
+  },
+  {
+   "i": 27,
+   "start": 93.526,
+   "end": 97.938,
+   "startFrame": 2806,
+   "endFrame": 2938,
+   "words": 15,
+   "text": "họ sử dụng một bảng kiểm tra để xem lại từng điều kiện cần thiết."
+  },
+  {
+   "i": 28,
+   "start": 98.788,
+   "end": 100.259,
+   "startFrame": 2964,
+   "endFrame": 3008,
+   "words": 5,
+   "text": "Với giao dịch cũng vậy."
+  },
+  {
+   "i": 29,
+   "start": 100.509,
+   "end": 103.744,
+   "startFrame": 3015,
+   "endFrame": 3112,
+   "words": 11,
+   "text": "Khi thị trường biến động nhanh và cảm xúc dâng cao,"
+  },
+  {
+   "i": 30,
+   "start": 103.994,
+   "end": 107.229,
+   "startFrame": 3120,
+   "endFrame": 3217,
+   "words": 11,
+   "text": "bạn có thể quên những điều mình đã lên kế hoạch."
+  },
+  {
+   "i": 31,
+   "start": 108.079,
+   "end": 112.785,
+   "startFrame": 3242,
+   "endFrame": 3384,
+   "words": 16,
+   "text": "Vì thế, hãy viết ra một bảng kiểm tra và đặt nó ngay trước màn hình."
+  },
+  {
+   "i": 32,
+   "start": 113.635,
+   "end": 116.282,
+   "startFrame": 3409,
+   "endFrame": 3488,
+   "words": 9,
+   "text": "Bạn có thể bắt đầu bằng ba câu hỏi."
+  },
+  {
+   "i": 33,
+   "start": 117.132,
+   "end": 119.779,
+   "startFrame": 3514,
+   "endFrame": 3593,
+   "words": 9,
+   "text": "Thứ nhất: Xu hướng lớn hiện tại là gì?"
+  },
+  {
+   "i": 34,
+   "start": 120.029,
+   "end": 123.265,
+   "startFrame": 3601,
+   "endFrame": 3698,
+   "words": 11,
+   "text": "Lệnh này có phù hợp với chiến lược của mình không?"
+  },
+  {
+   "i": 35,
+   "start": 124.115,
+   "end": 126.762,
+   "startFrame": 3723,
+   "endFrame": 3803,
+   "words": 9,
+   "text": "Thứ hai: Vị trí giá hiện tại ở đâu?"
+  },
+  {
+   "i": 36,
+   "start": 127.012,
+   "end": 129.659,
+   "startFrame": 3810,
+   "endFrame": 3890,
+   "words": 9,
+   "text": "Bạn có đang mua ngay sát vùng kháng cự,"
+  },
+  {
+   "i": 37,
+   "start": 129.909,
+   "end": 132.262,
+   "startFrame": 3897,
+   "endFrame": 3968,
+   "words": 8,
+   "text": "hoặc bán ngay sát vùng hỗ trợ không?"
+  },
+  {
+   "i": 38,
+   "start": 133.112,
+   "end": 137.818,
+   "startFrame": 3993,
+   "endFrame": 4135,
+   "words": 16,
+   "text": "Thứ ba: Rủi ro và lợi nhuận dự kiến có phù hợp với kế hoạch không?"
+  },
+  {
+   "i": 39,
+   "start": 138.068,
+   "end": 140.421,
+   "startFrame": 4142,
+   "endFrame": 4213,
+   "words": 8,
+   "text": "Điểm dừng lỗ đã được xác định chưa?"
+  },
+  {
+   "i": 40,
+   "start": 141.271,
+   "end": 145.094,
+   "startFrame": 4238,
+   "endFrame": 4353,
+   "words": 13,
+   "text": "Trước khi bấm chuột, hãy đọc từng câu hỏi và tự trả lời."
+  },
+  {
+   "i": 41,
+   "start": 145.944,
+   "end": 150.062,
+   "startFrame": 4378,
+   "endFrame": 4502,
+   "words": 14,
+   "text": "Nếu một điều kiện bắt buộc chưa được đáp ứng, hãy buông chuột ra."
+  },
+  {
+   "i": 42,
+   "start": 150.312,
+   "end": 155.018,
+   "startFrame": 4509,
+   "endFrame": 4651,
+   "words": 16,
+   "text": "Không vào một lệnh chưa đủ tiêu chuẩn cũng là một cách tuân thủ kỷ luật."
+  },
+  {
+   "i": 43,
+   "start": 155.868,
+   "end": 159.397,
+   "startFrame": 4676,
+   "endFrame": 4782,
+   "words": 12,
+   "text": "Tuy nhiên, sẽ có những lúc thị trường biến động quá nhanh."
+  },
+  {
+   "i": 44,
+   "start": 159.647,
+   "end": 161.118,
+   "startFrame": 4789,
+   "endFrame": 4834,
+   "words": 5,
+   "text": "Giá giật lên, giật xuống."
+  },
+  {
+   "i": 45,
+   "start": 161.368,
+   "end": 166.368,
+   "startFrame": 4841,
+   "endFrame": 4991,
+   "words": 17,
+   "text": "Bạn nhìn thấy một cây nến mạnh và có cảm giác rằng mình phải hành động ngay."
+  },
+  {
+   "i": 46,
+   "start": 167.218,
+   "end": 169.276,
+   "startFrame": 5017,
+   "endFrame": 5078,
+   "words": 7,
+   "text": "Mua ngay, nếu không sẽ bỏ lỡ!"
+  },
+  {
+   "i": 47,
+   "start": 170.126,
+   "end": 173.95,
+   "startFrame": 5104,
+   "endFrame": 5218,
+   "words": 13,
+   "text": "Hoặc đóng lệnh ngay, vì bạn đang sợ giá tiếp tục đi ngược!"
+  },
+  {
+   "i": 48,
+   "start": 174.8,
+   "end": 177.741,
+   "startFrame": 5244,
+   "endFrame": 5332,
+   "words": 10,
+   "text": "Trong khoảnh khắc đó, hãy thử dừng lại ba giây."
+  },
+  {
+   "i": 49,
+   "start": 178.591,
+   "end": 179.791,
+   "startFrame": 5358,
+   "endFrame": 5394,
+   "words": 3,
+   "text": "Buông chuột ra."
+  },
+  {
+   "i": 50,
+   "start": 180.041,
+   "end": 181.241,
+   "startFrame": 5401,
+   "endFrame": 5437,
+   "words": 4,
+   "text": "Thả lỏng bàn tay."
+  },
+  {
+   "i": 51,
+   "start": 182.091,
+   "end": 183.291,
+   "startFrame": 5463,
+   "endFrame": 5499,
+   "words": 3,
+   "text": "Một… hai… ba…"
+  },
+  {
+   "i": 52,
+   "start": 184.141,
+   "end": 187.965,
+   "startFrame": 5524,
+   "endFrame": 5639,
+   "words": 13,
+   "text": "Khoảng dừng này cho bạn thêm một chút thời gian để nhận ra:"
+  },
+  {
+   "i": 53,
+   "start": 188.215,
+   "end": 191.744,
+   "startFrame": 5646,
+   "endFrame": 5752,
+   "words": 12,
+   "text": "hành động mình sắp thực hiện có nằm trong kế hoạch không,"
+  },
+  {
+   "i": 54,
+   "start": 191.994,
+   "end": 195.229,
+   "startFrame": 5760,
+   "endFrame": 5857,
+   "words": 11,
+   "text": "hay chỉ xuất phát từ sự sợ hãi và nóng vội?"
+  },
+  {
+   "i": 55,
+   "start": 196.079,
+   "end": 197.55,
+   "startFrame": 5882,
+   "endFrame": 5926,
+   "words": 5,
+   "text": "Nếu vẫn đang căng thẳng,"
+  },
+  {
+   "i": 56,
+   "start": 197.8,
+   "end": 201.918,
+   "startFrame": 5934,
+   "endFrame": 6058,
+   "words": 14,
+   "text": "bạn có thể rời mắt khỏi màn hình và tập trung vào hơi thở."
+  },
+  {
+   "i": 57,
+   "start": 202.768,
+   "end": 204.826,
+   "startFrame": 6083,
+   "endFrame": 6145,
+   "words": 7,
+   "text": "Hãy thử kỹ thuật thở hình hộp."
+  },
+  {
+   "i": 58,
+   "start": 205.676,
+   "end": 207.735,
+   "startFrame": 6170,
+   "endFrame": 6232,
+   "words": 7,
+   "text": "Hít vào chậm rãi trong bốn nhịp."
+  },
+  {
+   "i": 59,
+   "start": 208.585,
+   "end": 210.056,
+   "startFrame": 6258,
+   "endFrame": 6302,
+   "words": 5,
+   "text": "Giữ hơi trong bốn nhịp."
+  },
+  {
+   "i": 60,
+   "start": 210.906,
+   "end": 212.965,
+   "startFrame": 6327,
+   "endFrame": 6389,
+   "words": 7,
+   "text": "Thở ra từ từ trong bốn nhịp."
+  },
+  {
+   "i": 61,
+   "start": 213.815,
+   "end": 216.756,
+   "startFrame": 6414,
+   "endFrame": 6503,
+   "words": 10,
+   "text": "Sau đó nghỉ bốn nhịp trước khi hít vào lại."
+  },
+  {
+   "i": 62,
+   "start": 217.606,
+   "end": 220.253,
+   "startFrame": 6528,
+   "endFrame": 6608,
+   "words": 9,
+   "text": "Lặp lại vài vòng với tốc độ thoải mái."
+  },
+  {
+   "i": 63,
+   "start": 220.503,
+   "end": 224.621,
+   "startFrame": 6615,
+   "endFrame": 6739,
+   "words": 14,
+   "text": "Nếu thấy chóng mặt hoặc khó chịu, hãy dừng lại và thở bình thường."
+  },
+  {
+   "i": 64,
+   "start": 225.471,
+   "end": 226.941,
+   "startFrame": 6764,
+   "endFrame": 6808,
+   "words": 5,
+   "text": "Khi đã bình tĩnh hơn,"
+  },
+  {
+   "i": 65,
+   "start": 227.191,
+   "end": 232.779,
+   "startFrame": 6816,
+   "endFrame": 6983,
+   "words": 19,
+   "text": "bạn có thể quay lại xem xét tình huống và thực hiện theo kế hoạch giao dịch của mình."
+  },
+  {
+   "i": 66,
+   "start": 233.629,
+   "end": 237.747,
+   "startFrame": 7009,
+   "endFrame": 7132,
+   "words": 14,
+   "text": "Một điều khác cần chú ý là cách bạn nói chuyện với bản thân."
+  },
+  {
+   "i": 67,
+   "start": 238.597,
+   "end": 242.715,
+   "startFrame": 7158,
+   "endFrame": 7281,
+   "words": 14,
+   "text": "Khi giá đi ngược dự đoán, bạn có thể nghĩ: “Mình lại sai rồi."
+  },
+  {
+   "i": 68,
+   "start": 242.965,
+   "end": 244.165,
+   "startFrame": 7289,
+   "endFrame": 7325,
+   "words": 4,
+   "text": "Mình thật ngu ngốc.”"
+  },
+  {
+   "i": 69,
+   "start": 245.015,
+   "end": 249.426,
+   "startFrame": 7350,
+   "endFrame": 7483,
+   "words": 15,
+   "text": "Nhưng thay vì tự trách, hãy thử nhìn tình huống như một người quan sát."
+  },
+  {
+   "i": 70,
+   "start": 250.276,
+   "end": 252.629,
+   "startFrame": 7508,
+   "endFrame": 7579,
+   "words": 8,
+   "text": "Thị trường đang cung cấp thông tin gì?"
+  },
+  {
+   "i": 71,
+   "start": 252.879,
+   "end": 255.232,
+   "startFrame": 7586,
+   "endFrame": 7657,
+   "words": 8,
+   "text": "Lệnh này có đúng với kế hoạch không?"
+  },
+  {
+   "i": 72,
+   "start": 255.482,
+   "end": 258.424,
+   "startFrame": 7664,
+   "endFrame": 7753,
+   "words": 10,
+   "text": "Mình cần ghi lại điều gì để xem xét sau?"
+  },
+  {
+   "i": 73,
+   "start": 259.274,
+   "end": 264.274,
+   "startFrame": 7778,
+   "endFrame": 7928,
+   "words": 17,
+   "text": "Thay đổi cách đặt câu hỏi có thể giúp bạn chú ý đến việc mình cần làm,"
+  },
+  {
+   "i": 74,
+   "start": 264.524,
+   "end": 267.465,
+   "startFrame": 7936,
+   "endFrame": 8024,
+   "words": 10,
+   "text": "thay vì chỉ tập trung vào cảm giác thất vọng."
+  },
+  {
+   "i": 75,
+   "start": 268.315,
+   "end": 271.55,
+   "startFrame": 8049,
+   "endFrame": 8146,
+   "words": 11,
+   "text": "Và cuối cùng, bạn cần một quy tắc ngắt giao dịch."
+  },
+  {
+   "i": 76,
+   "start": 272.4,
+   "end": 275.341,
+   "startFrame": 8172,
+   "endFrame": 8260,
+   "words": 10,
+   "text": "Hãy tưởng tượng bạn vừa có một ngày mệt mỏi."
+  },
+  {
+   "i": 77,
+   "start": 275.591,
+   "end": 276.791,
+   "startFrame": 8268,
+   "endFrame": 8304,
+   "words": 4,
+   "text": "Lệnh đầu tiên thua."
+  },
+  {
+   "i": 78,
+   "start": 277.041,
+   "end": 278.512,
+   "startFrame": 8311,
+   "endFrame": 8355,
+   "words": 5,
+   "text": "Lệnh thứ hai cũng thua."
+  },
+  {
+   "i": 79,
+   "start": 278.762,
+   "end": 284.056,
+   "startFrame": 8363,
+   "endFrame": 8522,
+   "words": 18,
+   "text": "Bạn bắt đầu nóng giận và muốn vào thêm một lệnh thật lớn để gỡ lại tất cả."
+  },
+  {
+   "i": 80,
+   "start": 284.906,
+   "end": 286.671,
+   "startFrame": 8547,
+   "endFrame": 8600,
+   "words": 6,
+   "text": "Đó là lúc cần dừng lại."
+  },
+  {
+   "i": 81,
+   "start": 287.521,
+   "end": 290.462,
+   "startFrame": 8626,
+   "endFrame": 8714,
+   "words": 10,
+   "text": "Một ví dụ trong kịch bản này là quy tắc:"
+  },
+  {
+   "i": 82,
+   "start": 290.712,
+   "end": 294.241,
+   "startFrame": 8721,
+   "endFrame": 8827,
+   "words": 12,
+   "text": "sau hai lệnh thua liên tiếp, ngừng mở lệnh mới trong ngày."
+  },
+  {
+   "i": 83,
+   "start": 295.091,
+   "end": 297.444,
+   "startFrame": 8853,
+   "endFrame": 8923,
+   "words": 8,
+   "text": "Khi chạm đến giới hạn đã đặt ra,"
+  },
+  {
+   "i": 84,
+   "start": 297.694,
+   "end": 300.341,
+   "startFrame": 8931,
+   "endFrame": 9010,
+   "words": 9,
+   "text": "hãy đứng dậy và rời khỏi bàn giao dịch."
+  },
+  {
+   "i": 85,
+   "start": 300.591,
+   "end": 302.356,
+   "startFrame": 9018,
+   "endFrame": 9071,
+   "words": 6,
+   "text": "Bạn có thể đi lấy nước,"
+  },
+  {
+   "i": 86,
+   "start": 302.606,
+   "end": 307.018,
+   "startFrame": 9078,
+   "endFrame": 9211,
+   "words": 15,
+   "text": "đi lại hoặc làm một việc khác để cho bản thân thời gian bình tĩnh."
+  },
+  {
+   "i": 87,
+   "start": 307.868,
+   "end": 312.868,
+   "startFrame": 9236,
+   "endFrame": 9386,
+   "words": 17,
+   "text": "Số lượng lệnh thua và giới hạn dừng cần phù hợp với kế hoạch của từng người."
+  },
+  {
+   "i": 88,
+   "start": 313.118,
+   "end": 317.824,
+   "startFrame": 9394,
+   "endFrame": 9535,
+   "words": 16,
+   "text": "Điều quan trọng là xác định chúng trước khi bước vào trạng thái mất kiểm soát."
+  },
+  {
+   "i": 89,
+   "start": 318.674,
+   "end": 321.026,
+   "startFrame": 9560,
+   "endFrame": 9631,
+   "words": 8,
+   "text": "Cơ hội giao dịch vẫn sẽ xuất hiện."
+  },
+  {
+   "i": 90,
+   "start": 321.276,
+   "end": 323.335,
+   "startFrame": 9638,
+   "endFrame": 9700,
+   "words": 7,
+   "text": "Nhưng vốn của bạn có giới hạn."
+  },
+  {
+   "i": 91,
+   "start": 324.185,
+   "end": 327.126,
+   "startFrame": 9726,
+   "endFrame": 9814,
+   "words": 10,
+   "text": "Vì vậy, hãy bắt đầu từ một quy tắc nhỏ."
+  },
+  {
+   "i": 92,
+   "start": 327.376,
+   "end": 329.729,
+   "startFrame": 9821,
+   "endFrame": 9892,
+   "words": 8,
+   "text": "Dùng bảng kiểm tra trước khi vào lệnh."
+  },
+  {
+   "i": 93,
+   "start": 329.979,
+   "end": 332.038,
+   "startFrame": 9899,
+   "endFrame": 9961,
+   "words": 7,
+   "text": "Dừng lại khi cảm xúc dâng cao."
+  },
+  {
+   "i": 94,
+   "start": 332.288,
+   "end": 334.641,
+   "startFrame": 9969,
+   "endFrame": 10039,
+   "words": 8,
+   "text": "Và biết khi nào cần ngừng giao dịch."
+  },
+  {
+   "i": 95,
+   "start": 335.491,
+   "end": 339.609,
+   "startFrame": 10065,
+   "endFrame": 10188,
+   "words": 14,
+   "text": "Trong nghề này, bảo vệ tài khoản cũng là một phần của kỷ luật."
+  }
+ ],
+ "chapters": []
+}

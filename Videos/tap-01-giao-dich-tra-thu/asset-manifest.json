@@ -1,0 +1,56 @@
+{
+  "status": "awaiting_audio",
+  "character": "Gia Cat Luong",
+  "assets": {
+    "analysis": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        629,
+        629,
+        629,
+        629
+      ]
+    },
+    "stop": {
+      "width": 2170,
+      "height": 725,
+      "panelWidth": 542.5,
+      "floors": [
+        651,
+        651,
+        651,
+        651
+      ]
+    },
+    "revenge": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        652,
+        652,
+        652,
+        652
+      ]
+    },
+    "regret": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        672,
+        672,
+        672,
+        672
+      ]
+    }
+  },
+  "prompt_actions": [
+    "analysis: study charts and click trade",
+    "stop: stop-loss surprise then bounce",
+    "revenge: anger and oversized trade",
+    "regret: empty pouch and explanation"
+  ]
+}

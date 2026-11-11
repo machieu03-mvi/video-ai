@@ -1,0 +1,1083 @@
+{
+  "videoId": "tap03-hoat-hoa",
+  "fps": 30,
+  "status": "awaiting_audio",
+  "visualBeats": [
+    {
+      "id": 1,
+      "frame": 0,
+      "durationFrames": 257,
+      "cue": 0,
+      "kind": "demo",
+      "sheet": "shot0",
+      "pose": 0,
+      "action": "Rèn luyện từng bước với tạ nhẹ"
+    },
+    {
+      "id": 2,
+      "frame": 257,
+      "durationFrames": 79,
+      "cue": 2,
+      "kind": "demo",
+      "sheet": "shot1",
+      "pose": 0,
+      "action": "Suy nghĩ về điểm bắt đầu"
+    },
+    {
+      "id": 3,
+      "frame": 336,
+      "durationFrames": 264,
+      "cue": 3,
+      "kind": "demo",
+      "sheet": "shot2",
+      "pose": 0,
+      "action": "Đối diện quá nhiều quy tắc"
+    },
+    {
+      "id": 4,
+      "frame": 600,
+      "durationFrames": 85,
+      "cue": 5,
+      "kind": "patience",
+      "sheet": "shot-patience",
+      "pose": 0,
+      "action": "Chờ đợi và giữ bình tĩnh",
+      "icons": [
+        {
+          "id": "clock",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frame": 685,
+      "durationFrames": 183,
+      "cue": 6,
+      "kind": "grid",
+      "sheet": "pair01",
+      "row": 0,
+      "pose": 0,
+      "action": "Minh họa: Khi không làm được tất cả,",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 6,
+      "frame": 868,
+      "durationFrames": 192,
+      "cue": 8,
+      "kind": "grid",
+      "sheet": "pair01",
+      "row": 1,
+      "pose": 1,
+      "action": "Quan Vũ hướng dẫn tập với tạ nhẹ",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 7,
+      "frame": 1060,
+      "durationFrames": 166,
+      "cue": 10,
+      "kind": "grid",
+      "sheet": "pair02",
+      "row": 0,
+      "pose": 0,
+      "action": "Minh họa: Trong hai tuần tới, hãy chọn một quy tắc nhỏ và tập trung thực hiện nó.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "check",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frame": 1226,
+      "durationFrames": 261,
+      "cue": 11,
+      "kind": "grid",
+      "sheet": "pair02",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Ví dụ: luôn đặt điểm dừng lỗ khi vào lệnh.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "shield",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frame": 1487,
+      "durationFrames": 185,
+      "cue": 14,
+      "kind": "grid",
+      "sheet": "pair05",
+      "row": 0,
+      "pose": 0,
+      "action": "Minh họa: Thậm chí, giá có thể chạm điểm dừng lỗ rồi quay đầu đi đúng hướng bạn dự đoán.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 10,
+      "frame": 1672,
+      "durationFrames": 209,
+      "cue": 15,
+      "kind": "grid",
+      "sheet": "pair05",
+      "row": 1,
+      "pose": 1,
+      "action": "Gia Cát Lượng và Trương Phi kiểm tra kế hoạch",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 11,
+      "frame": 1881,
+      "durationFrames": 201,
+      "cue": 17,
+      "kind": "grid",
+      "sheet": "pair06",
+      "row": 0,
+      "pose": 0,
+      "action": "Ghi nhận việc thực hiện được quy tắc",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 12,
+      "frame": 2082,
+      "durationFrames": 200,
+      "cue": 19,
+      "kind": "grid",
+      "sheet": "pair06",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Khi đã quen với quy tắc đầu tiên,",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 13,
+      "frame": 2282,
+      "durationFrames": 227,
+      "cue": 21,
+      "kind": "grid",
+      "sheet": "pair07",
+      "row": 0,
+      "pose": 0,
+      "action": "Từng bước rèn luyện kỷ luật",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "steps",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "frame": 2509,
+      "durationFrames": 202,
+      "cue": 23,
+      "kind": "grid",
+      "sheet": "pair07",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Trước khi vào lệnh,",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 15,
+      "frame": 2711,
+      "durationFrames": 253,
+      "cue": 25,
+      "kind": "grid",
+      "sheet": "pair08",
+      "row": 0,
+      "pose": 0,
+      "action": "Quan Vũ và Trương Phi xem bảng kiểm tra",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 16,
+      "frame": 2964,
+      "durationFrames": 278,
+      "cue": 28,
+      "kind": "grid",
+      "sheet": "pair08",
+      "row": 1,
+      "pose": 1,
+      "action": "Quan sát biến động và nhận ra cảm xúc",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 17,
+      "frame": 3242,
+      "durationFrames": 272,
+      "cue": 31,
+      "kind": "grid",
+      "sheet": "pair09",
+      "row": 0,
+      "pose": 0,
+      "action": "Viết bảng kiểm tra trước khi giao dịch",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "check",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "frame": 3514,
+      "durationFrames": 209,
+      "cue": 33,
+      "kind": "grid",
+      "sheet": "pair09",
+      "row": 1,
+      "pose": 1,
+      "action": "Quan sát xu hướng trên biểu đồ",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "chart",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "frame": 3723,
+      "durationFrames": 270,
+      "cue": 35,
+      "kind": "grid",
+      "sheet": "pair10",
+      "row": 0,
+      "pose": 0,
+      "action": "Xem vị trí giá trên biểu đồ",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 20,
+      "frame": 3993,
+      "durationFrames": 245,
+      "cue": 38,
+      "kind": "grid",
+      "sheet": "pair10",
+      "row": 1,
+      "pose": 1,
+      "action": "Kiểm tra rủi ro và điểm dừng lỗ",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "shield",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "frame": 4238,
+      "durationFrames": 271,
+      "cue": 40,
+      "kind": "grid",
+      "sheet": "pair11",
+      "row": 0,
+      "pose": 0,
+      "action": "Đọc bảng kiểm tra trước khi bấm chuột",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 22,
+      "frame": 4509,
+      "durationFrames": 167,
+      "cue": 42,
+      "kind": "grid",
+      "sheet": "pair11",
+      "row": 1,
+      "pose": 1,
+      "action": "Quan Vũ nhắc dừng khi chưa đạt điều kiện",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "pause",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "frame": 4676,
+      "durationFrames": 165,
+      "cue": 43,
+      "kind": "grid",
+      "sheet": "pair12",
+      "row": 0,
+      "pose": 0,
+      "action": "Phản ứng khi biểu đồ biến động mạnh",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 24,
+      "frame": 4841,
+      "durationFrames": 263,
+      "cue": 45,
+      "kind": "grid",
+      "sheet": "pair12",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Bạn nhìn thấy một cây nến mạnh và có cảm giác rằng mình phải hành động ngay.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 25,
+      "frame": 5104,
+      "durationFrames": 140,
+      "cue": 47,
+      "kind": "grid",
+      "sheet": "pair13",
+      "row": 0,
+      "pose": 0,
+      "action": "Trương Phi lo lắng trước biểu đồ và được nhắc bình tĩnh",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 26,
+      "frame": 5244,
+      "durationFrames": 157,
+      "cue": 48,
+      "kind": "grid",
+      "sheet": "pair13",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Trong khoảnh khắc đó, hãy thử dừng lại ba giây.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "pause",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "frame": 5401,
+      "durationFrames": 123,
+      "cue": 50,
+      "kind": "grid",
+      "sheet": "pair14",
+      "row": 0,
+      "pose": 0,
+      "action": "Minh họa: Thả lỏng bàn tay.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 28,
+      "frame": 5524,
+      "durationFrames": 236,
+      "cue": 52,
+      "kind": "grid",
+      "sheet": "pair14",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Khoảng dừng này cho bạn thêm một chút thời gian để nhận ra:",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 29,
+      "frame": 5760,
+      "durationFrames": 174,
+      "cue": 54,
+      "kind": "grid",
+      "sheet": "pair15",
+      "row": 0,
+      "pose": 0,
+      "action": "Gia Cát Lượng gợi ý dừng lại và suy nghĩ",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 30,
+      "frame": 5934,
+      "durationFrames": 236,
+      "cue": 56,
+      "kind": "grid",
+      "sheet": "pair15",
+      "row": 1,
+      "pose": 1,
+      "action": "Rời mắt khỏi màn hình và bình tĩnh",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 31,
+      "frame": 6170,
+      "durationFrames": 157,
+      "cue": 58,
+      "kind": "grid",
+      "sheet": "pair16",
+      "row": 0,
+      "pose": 0,
+      "action": "Minh họa: Hít vào chậm rãi trong bốn nhịp.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "breath",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "frame": 6327,
+      "durationFrames": 201,
+      "cue": 60,
+      "kind": "grid",
+      "sheet": "pair16",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Thở ra từ từ trong bốn nhịp.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "breath",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "frame": 6528,
+      "durationFrames": 236,
+      "cue": 62,
+      "kind": "grid",
+      "sheet": "pair17",
+      "row": 0,
+      "pose": 0,
+      "action": "Thực hành thở chậm cùng Quan Vũ",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 34,
+      "frame": 6764,
+      "durationFrames": 245,
+      "cue": 64,
+      "kind": "grid",
+      "sheet": "pair17",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Khi đã bình tĩnh hơn,",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 35,
+      "frame": 7009,
+      "durationFrames": 149,
+      "cue": 66,
+      "kind": "grid",
+      "sheet": "pair18",
+      "row": 0,
+      "pose": 0,
+      "action": "Quan sát cách nói chuyện với bản thân",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 36,
+      "frame": 7158,
+      "durationFrames": 192,
+      "cue": 67,
+      "kind": "grid",
+      "sheet": "pair18",
+      "row": 1,
+      "pose": 1,
+      "action": "Thất vọng khi biểu đồ đi ngược dự đoán",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 37,
+      "frame": 7350,
+      "durationFrames": 158,
+      "cue": 69,
+      "kind": "grid",
+      "sheet": "pair19",
+      "row": 0,
+      "pose": 0,
+      "action": "Quan sát biểu đồ với góc nhìn khách quan",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 38,
+      "frame": 7508,
+      "durationFrames": 156,
+      "cue": 70,
+      "kind": "grid",
+      "sheet": "pair19",
+      "row": 1,
+      "pose": 1,
+      "action": "Cùng xem dữ liệu trong nhật ký giao dịch",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 39,
+      "frame": 7664,
+      "durationFrames": 272,
+      "cue": 72,
+      "kind": "grid",
+      "sheet": "pair20",
+      "row": 0,
+      "pose": 0,
+      "action": "Ghi lại thông tin để xem xét sau",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "book",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "frame": 7936,
+      "durationFrames": 113,
+      "cue": 74,
+      "kind": "grid",
+      "sheet": "pair20",
+      "row": 1,
+      "pose": 1,
+      "action": "Gia Cát Lượng động viên khi Trương Phi thất vọng",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 41,
+      "frame": 8049,
+      "durationFrames": 219,
+      "cue": 75,
+      "kind": "grid",
+      "sheet": "pair21",
+      "row": 0,
+      "pose": 0,
+      "action": "Quan Vũ ra hiệu tạm ngừng giao dịch",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 42,
+      "frame": 8268,
+      "durationFrames": 279,
+      "cue": 77,
+      "kind": "grid",
+      "sheet": "pair21",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Lệnh đầu tiên thua.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 43,
+      "frame": 8547,
+      "durationFrames": 174,
+      "cue": 80,
+      "kind": "grid",
+      "sheet": "pair22",
+      "row": 0,
+      "pose": 0,
+      "action": "Minh họa: Đó là lúc cần dừng lại.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 44,
+      "frame": 8721,
+      "durationFrames": 210,
+      "cue": 82,
+      "kind": "grid",
+      "sheet": "pair22",
+      "row": 1,
+      "pose": 1,
+      "action": "Dừng theo giới hạn hai lệnh thua minh họa",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "pause",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "frame": 8931,
+      "durationFrames": 87,
+      "cue": 84,
+      "kind": "grid",
+      "sheet": "pair23",
+      "row": 0,
+      "pose": 0,
+      "action": "Minh họa: hãy đứng dậy và rời khỏi bàn giao dịch.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 46,
+      "frame": 9018,
+      "durationFrames": 218,
+      "cue": 85,
+      "kind": "grid",
+      "sheet": "pair23",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Bạn có thể đi lấy nước,",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "water",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "frame": 9236,
+      "durationFrames": 158,
+      "cue": 87,
+      "kind": "grid",
+      "sheet": "pair24",
+      "row": 0,
+      "pose": 0,
+      "action": "Kiểm tra kế hoạch và giới hạn rủi ro",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "shield",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "frame": 9394,
+      "durationFrames": 166,
+      "cue": 88,
+      "kind": "grid",
+      "sheet": "pair24",
+      "row": 1,
+      "pose": 1,
+      "action": "Suy nghĩ và chuẩn bị kế hoạch trước",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 49,
+      "frame": 9560,
+      "durationFrames": 166,
+      "cue": 89,
+      "kind": "grid",
+      "sheet": "pair25",
+      "row": 0,
+      "pose": 0,
+      "action": "Quan sát thị trường và cơ hội tiếp theo",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 50,
+      "frame": 9726,
+      "durationFrames": 173,
+      "cue": 91,
+      "kind": "grid",
+      "sheet": "pair25",
+      "row": 1,
+      "pose": 1,
+      "action": "Viết một quy tắc nhỏ vào sổ",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "check",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "frame": 9899,
+      "durationFrames": 166,
+      "cue": 93,
+      "kind": "grid",
+      "sheet": "pair26",
+      "row": 0,
+      "pose": 0,
+      "action": "Dừng lại và trấn tĩnh khi cảm xúc dâng cao",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ]
+    },
+    {
+      "id": 52,
+      "frame": 10065,
+      "durationFrames": 183,
+      "cue": 95,
+      "kind": "grid",
+      "sheet": "pair26",
+      "row": 1,
+      "pose": 1,
+      "action": "Minh họa: Trong nghề này, bảo vệ tài khoản cũng là một phần của kỷ luật.",
+      "motionFrames": [
+        "chuan-bi",
+        "khung-noi-1",
+        "khung-noi-2",
+        "thao-tac",
+        "khung-noi-3",
+        "phan-ung"
+      ],
+      "icons": [
+        {
+          "id": "shield",
+          "timing": "trong cảnh",
+          "placement": "trên phải"
+        }
+      ]
+    }
+  ],
+  "outro": {
+    "frame": 10248,
+    "durationFrames": 90,
+    "text": "Hiểu đúng để đi xa hơn"
+  }
+}

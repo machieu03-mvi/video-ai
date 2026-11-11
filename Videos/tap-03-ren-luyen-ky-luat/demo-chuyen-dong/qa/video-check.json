@@ -1,0 +1,78 @@
+{
+  "seconds": 20.0,
+  "width": 720,
+  "height": 1280,
+  "fps": "30/1",
+  "videoFrames": 600,
+  "audioStreams": 0,
+  "poseChanges": [
+    {
+      "frame": 28,
+      "difference": 14.096
+    },
+    {
+      "frame": 54,
+      "difference": 15.491
+    },
+    {
+      "frame": 80,
+      "difference": 15.43
+    },
+    {
+      "frame": 107,
+      "difference": 14.102
+    },
+    {
+      "frame": 143,
+      "difference": 14.012
+    },
+    {
+      "frame": 170,
+      "difference": 15.347
+    },
+    {
+      "frame": 206,
+      "difference": 19.066
+    },
+    {
+      "frame": 257,
+      "difference": 69.645
+    },
+    {
+      "frame": 274,
+      "difference": 8.138
+    },
+    {
+      "frame": 294,
+      "difference": 10.845
+    },
+    {
+      "frame": 317,
+      "difference": 17.28
+    },
+    {
+      "frame": 336,
+      "difference": 81.012
+    },
+    {
+      "frame": 374,
+      "difference": 10.975
+    },
+    {
+      "frame": 412,
+      "difference": 10.81
+    },
+    {
+      "frame": 448,
+      "difference": 10.793
+    },
+    {
+      "frame": 496,
+      "difference": 22.635
+    },
+    {
+      "frame": 556,
+      "difference": 25.826
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="vi"><meta charset="utf-8"><title>Mẫu mở đầu — Bản chất của vàng</title>
+<style>body{background:#16203b;color:white;font:16px Arial;text-align:center}canvas{max-width:95vw;max-height:85vh;border-radius:12px}p{margin:8px}</style>
+<p>Mẫu hình ảnh · 12 giây · chưa có giọng đọc · thời gian tạm</p><canvas id="c" width="1280" height="720"></canvas>
+<script>
+const canvas=document.querySelector('#c'), ctx=canvas.getContext('2d');
+const paths=['../Nhan_vat_tham_chieu/vo_tuong_tai_chinh.png','../Nhan_vat_tham_chieu/quan_van_truong.png','../Nhan_vat_tham_chieu/quan_su_tai_chinh.png'];
+const imgs=paths.map(path=>{const i=new Image();i.src=path;return i});
+const ready=Promise.all(imgs.map(i=>i.decode()));
+function line(text,x,y,font,color){ctx.font=font;ctx.fillStyle=color;ctx.fillText(text,x,y)}
+function frame(t){
+ const s=Math.min(2,Math.floor(t/4)), phase=t-s*4, img=imgs[s];
+ ctx.fillStyle='#faf6e9';ctx.fillRect(0,0,1280,720);
+ ctx.fillStyle='#e9f3fc';ctx.beginPath();ctx.arc(1050,170,260,0,7);ctx.fill();
+ ctx.fillStyle='#173257';ctx.fillRect(0,0,1280,12);
+ line('CHUYỆN TÀI CHÍNH',75,75,'bold 23px Arial','#2177b8');
+ // Crop the large reference portrait at display time; this is not a separated or rigged character.
+ ctx.save();ctx.beginPath();ctx.roundRect(58,108,420,555,26);ctx.clip();
+ ctx.drawImage(img,0,35,460,870,58,108+Math.sin(t*2)*3,420,555);ctx.restore();
+ ctx.fillStyle='#ffffff';ctx.beginPath();ctx.roundRect(515,125,695,477,28);ctx.fill();
+ const data=[['TRƯƠNG PHI','Giá vàng tăng hay giảm?','Một nhịp tăng đẹp khiến','ai cũng muốn tìm cơ hội.'],['QUAN VÂN TRƯỜNG','Nhưng vì sao vàng','lại có giá trị lớn','đến như vậy?'],['GIA CÁT LƯỢNG','Vàng không chỉ là','một món hàng để','mua và bán.']][s];
+ line(data[0],555,187,'bold 24px Arial','#2982b7');
+ data.slice(1).forEach((v,j)=>line(v,555,270+j*67,'bold 43px Arial','#14294d'));
+ ctx.strokeStyle='#daa727';ctx.lineWidth=7;ctx.beginPath();ctx.moveTo(558,505);ctx.lineTo(635,505);ctx.stroke();
+ line('BẢN CHẤT CỦA VÀNG',555,555,'bold 22px Arial','#9a7622');
+ line('MẪU HÌNH ẢNH · CHƯA CÓ GIỌNG ĐỌC',72,695,'bold 16px Arial','#697686');
+}
+let start, recording=false;function loop(ms){if(!start)start=ms;if(!recording)frame(((ms-start)/1000)%12);requestAnimationFrame(loop)}
+ready.then(()=>requestAnimationFrame(loop));
+window.recordSample=async()=>{await ready;recording=true;frame(0);const stream=canvas.captureStream(24), recorder=new MediaRecorder(stream,{mimeType:'video/webm;codecs=vp9',videoBitsPerSecond:3500000}),chunks=[];recorder.ondataavailable=e=>{if(e.data.size)chunks.push(e.data)};const done=new Promise(r=>recorder.onstop=r);recorder.start();const begin=performance.now();await new Promise(resolve=>{function draw(now){const t=(now-begin)/1000;frame(Math.min(t,11.99));if(t<12)requestAnimationFrame(draw);else resolve()}requestAnimationFrame(draw)});recorder.stop();await done;return await new Promise(resolve=>{const f=new FileReader();f.onload=()=>resolve(f.result.split(',')[1]);f.readAsDataURL(new Blob(chunks,{type:'video/webm'}))})};
+</script></html>

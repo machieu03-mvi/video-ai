@@ -1,0 +1,156 @@
+{
+  "status": "needs_review",
+  "sceneCount": 52,
+  "fps": 30,
+  "uniqueAssetPoses": 25,
+  "issues": [
+    {
+      "type": "reused_pose",
+      "sheet": "scene0",
+      "pose": 0,
+      "scenes": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene0",
+      "pose": 1,
+      "scenes": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene2",
+      "pose": 0,
+      "scenes": [
+        5,
+        23,
+        25,
+        36
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene5",
+      "pose": 0,
+      "scenes": [
+        7,
+        11,
+        17,
+        50
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene0",
+      "pose": 2,
+      "scenes": [
+        8,
+        10
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene4",
+      "pose": 0,
+      "scenes": [
+        12,
+        49
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene5",
+      "pose": 1,
+      "scenes": [
+        14,
+        21,
+        35,
+        39,
+        48
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene1",
+      "pose": 0,
+      "scenes": [
+        15,
+        18,
+        38
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene1",
+      "pose": 1,
+      "scenes": [
+        16,
+        19
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene1",
+      "pose": 2,
+      "scenes": [
+        20,
+        47
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene3",
+      "pose": 0,
+      "scenes": [
+        24,
+        41
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene2",
+      "pose": 1,
+      "scenes": [
+        26,
+        29,
+        37,
+        51
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene2",
+      "pose": 3,
+      "scenes": [
+        27,
+        30,
+        33
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene2",
+      "pose": 2,
+      "scenes": [
+        28,
+        40
+      ]
+    },
+    {
+      "type": "reused_pose",
+      "sheet": "scene3",
+      "pose": 1,
+      "scenes": [
+        42,
+        44
+      ]
+    }
+  ],
+  "limitation": "Kiểm tra tự động không phát hiện ảnh trùng nội dung nhưng khác mã; cần rà bằng mắt và kiểm tra MP4."
+}

@@ -1,0 +1,116 @@
+{
+  "cueIndices": "zero-based",
+  "scenes": [
+    {
+      "id": 0,
+      "cues": [
+        0
+      ],
+      "asset": "doubt",
+      "poses": [
+        0,
+        1
+      ],
+      "action": "Trương Phi lo lắng, Gia Cát Lượng lắng nghe"
+    },
+    {
+      "id": 1,
+      "cues": [
+        1,
+        2
+      ],
+      "asset": "doubt",
+      "poses": [
+        2,
+        3
+      ],
+      "action": "Gia Cát Lượng giới thiệu tạ nhỏ, đưa về phía Trương Phi"
+    },
+    {
+      "id": 2,
+      "cues": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "asset": "gym",
+      "poses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "action": "Quan Vũ nâng tạ, Trương Phi thử nhưng chưa đủ sức, Quan Vũ can ngăn"
+    },
+    {
+      "id": 3,
+      "cues": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "asset": "overload",
+      "poses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "action": "Đồng hồ cát, bàn tính rủi ro, viết nhật ký, do dự cắt lỗ"
+    },
+    {
+      "id": 4,
+      "cues": [
+        11,
+        12
+      ],
+      "asset": "reassure",
+      "poses": [
+        0,
+        1
+      ],
+      "action": "Trương Phi tự trách, Gia Cát Lượng an ủi đặt tay lên vai"
+    },
+    {
+      "id": 5,
+      "cues": [
+        13
+      ],
+      "asset": "reassure",
+      "poses": [
+        2,
+        3
+      ],
+      "action": "Gia Cát Lượng giải thích và chỉ tạ nhỏ"
+    },
+    {
+      "id": 6,
+      "cues": [
+        14,
+        15
+      ],
+      "asset": "practice",
+      "poses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "action": "Ba người chọn một quy tắc, tập tạ nhỏ, ghi hoàn thành và động viên nhau"
+    }
+  ],
+  "outro": {
+    "id": "outro",
+    "fadeInFrames": 15,
+    "background": "tap02/nen-giay.png",
+    "endFrame": 1791,
+    "color": "#173b50",
+    "text": "Hiểu đúng để đi xa hơn",
+    "logo": "tap02/miracle-logo.png",
+    "startFrame": 1701,
+    "finalPoseHoldFrames": 60,
+    "spoken": false
+  }
+}

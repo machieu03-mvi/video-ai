@@ -1,0 +1,98 @@
+{
+  "id": "truong-phi-approved-pre-v4",
+  "approvedDate": "2026-11-10",
+  "referenceVideo": "Videos/tap-01-giao-dich-tra-thu/ban-truong-phi/out/tap-01-truong-phi-nen-sang-chu-thong-nhat.mp4",
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "videoCodec": "h264",
+  "audioCodecWhenProvided": "aac",
+  "background": {
+    "asset": "Quy_trinh_video/assets/nen-giay-chuan.png",
+    "objectFit": "cover",
+    "filter": "brightness(0.995)",
+    "fallback": "#f5f3ed"
+  },
+  "font": "Be Vietnam Pro",
+  "series": {
+    "color": "#9b6019",
+    "fontSize": 23,
+    "fontWeight": 900,
+    "top": 80
+  },
+  "title": {
+    "color": "#173b50",
+    "fontSize": 49,
+    "fontWeight": 900,
+    "lineHeight": 1.17,
+    "top": 140,
+    "horizontalMargin": 40
+  },
+  "secondary": {
+    "color": "#8c5b25",
+    "fontWeight": 900,
+    "fontSizeRange": [
+      26,
+      36
+    ]
+  },
+  "subtitle": {
+    "color": "#ffffff",
+    "background": "#15344a",
+    "fontSize": 32,
+    "fontWeight": 800,
+    "lineHeight": 1.28,
+    "horizontalMargin": 46,
+    "bottom": 145,
+    "padding": [
+      18,
+      22
+    ],
+    "borderRadius": 22
+  },
+  "ground": {
+    "color": "#bfa578",
+    "y": 890,
+    "strokeWidth": 4
+  },
+  "draftLabel": {
+    "color": "#73552d",
+    "fontSize": 17,
+    "fontWeight": 800,
+    "bottom": 92
+  },
+  "chart": {
+    "up": "#30876e",
+    "down": "#bf533e"
+  },
+  "outro": {
+    "enabled": true,
+    "text": "Hiểu đúng để đi xa hơn",
+    "durationSeconds": 3,
+    "durationFramesAt30Fps": 90,
+    "fadeInFramesAt30Fps": 15,
+    "color": "#173b50",
+    "fontSize": 49,
+    "fontWeight": 900,
+    "lineHeight": 1.2,
+    "horizontalMargin": 60,
+    "align": "center",
+    "reuseBackground": true,
+    "replaceEmptyTail": true,
+    "afterNarration": true,
+    "autoGenerateVoice": false,
+    "showSubtitles": false,
+    "showDraftLabel": false,
+    "finalPoseHoldSeconds": 2,
+    "sceneFadeOutSeconds": 0.5,
+    "logo": {
+      "height": 300,
+      "gap": 38,
+      "width": 300,
+      "position": "above_slogan",
+      "asset": "Quy_trinh_video/assets/brand/miracle-logo-cach-dieu.png"
+    }
+  },
+  "durationFollowsAudio": true,
+  "audioStatus": "awaiting_user_audio"
+}

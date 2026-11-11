@@ -1,0 +1,101 @@
+{
+  "action-price-fixed.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      578,
+      578,
+      578,
+      578
+    ]
+  },
+  "action-count-fixed.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      572,
+      571,
+      570,
+      569
+    ]
+  },
+  "duo-truong-quan-no-shadow.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      580,
+      580,
+      580,
+      580
+    ]
+  },
+  "duo-gia-truong-fixed.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      580,
+      580,
+      580,
+      580
+    ]
+  },
+  "action-history.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      617,
+      613,
+      615,
+      614
+    ]
+  },
+  "action-risk.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      575,
+      574,
+      575,
+      574
+    ]
+  },
+  "action-vault.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      557,
+      557,
+      557,
+      557
+    ]
+  },
+  "action-diversify.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      621,
+      612,
+      621,
+      621
+    ]
+  },
+  "duo-luu-gia-no-shadow.png": {
+    "width": 2172,
+    "height": 724,
+    "panelWidth": 543,
+    "floors": [
+      637,
+      637,
+      637,
+      637
+    ]
+  }
+}

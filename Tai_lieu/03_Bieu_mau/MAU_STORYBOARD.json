@@ -1,0 +1,36 @@
+{
+  "videoId": "thay-bang-slug-video",
+  "format": {"width": 720, "height": 1280, "fps": 30},
+  "audioStatus": "awaiting_audio",
+  "timelineFile": "src/<slug>/timeline.json",
+  "scenes": [],
+  "visualBeats": [],
+  "visualBeatFieldGuide": {
+    "frame": "Frame bắt đầu cảnh; cảnh đầu bắt đầu từ 0 và các cảnh nối tiếp không hở/chồng",
+    "durationFrames": "Số frame, lớn hơn 0 và không quá 10 giây theo fps",
+    "cue": "Chỉ số cue/lời dẫn tương ứng; thêm mốc giữa cue khi cần",
+    "sheet": "Mã tệp/bộ ảnh",
+    "pose": "Số ô/tư thế trong bộ; cặp sheet và pose phải riêng cho từng cảnh",
+    "action": "Hành động, tương tác và ý của cảnh; khác biệt và đúng kịch bản",
+    "icons": "Không bắt buộc: mã/nguồn, ý nghĩa, vị trí, mốc xuất hiện/kết thúc, hiệu ứng nhẹ và tương tác theo cue",
+    "motionFrames": "Danh sách trạng thái đầu/giữa/cuối và khung nối khi cần: mã file/tư thế, mốc frame, hành động, điểm tiếp xúc, thời lượng giữ và liên hệ cue/giọng; ghi lại đoạn thử và trạng thái rà tốc độ thực"
+  },
+  "sceneFieldGuide": {
+    "id": "ID duy nhất",
+    "startCueId": "Chỉ số cue thực tế bắt đầu cảnh",
+    "endCueIdInclusive": "Chỉ số cue thực tế cuối cảnh",
+    "timing": "Mốc bắt đầu/kết thúc theo thời gian thực; cảnh nội dung tối đa 10 giây, kể cả khi cần tách trong một cue",
+    "idea": "Ý lời dẫn cần minh họa",
+    "characters": "Danh sách nhân vật và ảnh chuẩn của họ",
+    "camera": "Góc nhìn, cỡ cảnh, ánh nhìn",
+    "action": "Chuẩn bị / thao tác / phản ứng / kết thúc, riêng cho ý này",
+    "props": "Đạo cụ và tương tác gắn với nhân vật",
+    "icons": "Icon minh họa nếu phù hợp: ý nghĩa, asset, vị trí, thời điểm và tương tác; không che nhân vật hoặc phụ đề",
+    "beatAnchors": "Mốc từ/cue để tay, đạo cụ, chữ xuất hiện đúng ý",
+    "motionFrames": "Chuỗi ảnh cùng cảnh: trạng thái bắt đầu, khung chuyển tiếp, thao tác và phản ứng/kết thúc; mã ảnh, mốc và thời lượng giữ cho từng trạng thái",
+    "asset": "Tên file, kích thước thật, vùng từng pose, baseline, khoảng trống cho mũ/đạo cụ",
+    "uniqueness": "ID asset và tư thế riêng; kiểm tra trùng với mọi cảnh khác; nếu buộc phải lặp, ghi cảnh liên quan và lý do",
+    "onScreenText": "Chữ ngắn phục vụ ý chính",
+    "qaStatus": "Chưa kiểm tra / có lỗi cần sửa / đã kiểm tra, kèm đường dẫn ảnh"
+  }
+}

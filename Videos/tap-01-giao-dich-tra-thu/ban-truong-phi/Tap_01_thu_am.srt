@@ -1,0 +1,67 @@
+1
+00:00:01,000 --> 00:00:03,778
+Đã bao giờ bạn rơi vào trạng thái này chưa?
+
+2
+00:00:04,628 --> 00:00:06,572
+Bạn vừa vào một lệnh rất đẹp.
+
+3
+00:00:06,822 --> 00:00:10,156
+Bạn đã phân tích kỹ càng, mọi chỉ báo đều ủng hộ,
+
+4
+00:00:10,406 --> 00:00:12,628
+và bạn tin chắc lệnh này sẽ thắng.
+
+5
+00:00:13,478 --> 00:00:15,700
+Nhưng rồi, tin tức bất ngờ ập đến,
+
+6
+00:00:15,950 --> 00:00:18,728
+hoặc một cây nến quét mạnh qua điểm dừng lỗ…
+
+7
+00:00:18,978 --> 00:00:21,478
+rồi quay đầu đi đúng hướng bạn dự đoán.
+
+8
+00:00:22,328 --> 00:00:24,272
+Lúc đó, máu nóng dồn lên mặt.
+
+9
+00:00:24,522 --> 00:00:27,856
+Trong đầu bạn chỉ còn một tiếng hét: “Thị trường lừa mình!
+
+10
+00:00:28,106 --> 00:00:29,494
+Trả lại tiền cho tôi!”
+
+11
+00:00:30,344 --> 00:00:33,678
+Và trong một khoảnh khắc mất kiểm soát, bạn vào lại lệnh.
+
+12
+00:00:33,928 --> 00:00:36,428
+Khối lượng gấp đôi, không đặt điểm dừng lỗ.
+
+13
+00:00:36,678 --> 00:00:39,178
+Bạn muốn gỡ lại tất cả ngay lập tức.
+
+14
+00:00:40,028 --> 00:00:43,083
+Mười lăm phút sau, bạn ngồi thẫn thờ trước màn hình.
+
+15
+00:00:43,333 --> 00:00:46,111
+Tài khoản không chỉ mất đi số tiền ban đầu,
+
+16
+00:00:46,361 --> 00:00:48,306
+mà còn chịu thêm khoản lỗ lớn.
+
+17
+00:00:49,156 --> 00:00:53,600
+Đó gọi là giao dịch trả thù — khoảnh khắc cảm xúc chiếm quyền điều khiển.

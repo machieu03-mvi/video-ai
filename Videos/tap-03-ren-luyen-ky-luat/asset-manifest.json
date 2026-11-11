@@ -1,0 +1,295 @@
+{
+  "status": "awaiting_audio",
+  "currentOutput": "phien-ban-hoat-hoa/out/tap-03-hoat-hoa-cho-giong.mp4",
+  "durationSeconds": 344.6,
+  "characters": [
+    "Gia Cát Lượng",
+    "Trương Phi",
+    "Quan Vũ"
+  ],
+  "visualProfile": "Quy_trinh_video/visual-profile.json",
+  "generator": "built-in imagegen",
+  "assets": {
+    "scene0": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        609,
+        607,
+        608,
+        607
+      ]
+    },
+    "scene1": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        611,
+        611,
+        611,
+        611
+      ]
+    },
+    "scene2": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        593,
+        593,
+        593,
+        590
+      ]
+    },
+    "scene3": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        592,
+        592,
+        592,
+        582
+      ]
+    },
+    "scene4": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        553,
+        554,
+        551,
+        551
+      ]
+    },
+    "scene5": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        595,
+        613,
+        587,
+        596
+      ]
+    },
+    "scene6": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        605,
+        607,
+        610,
+        608
+      ]
+    },
+    "scene7": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        654,
+        638,
+        614,
+        626
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1629,
+        2172
+      ]
+    },
+    "scene8": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        584,
+        598,
+        578,
+        583
+      ],
+      "bounds": [
+        0,
+        543,
+        1053,
+        1622,
+        2172
+      ]
+    },
+    "scene9": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        632,
+        632,
+        632,
+        628
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1629,
+        2172
+      ]
+    },
+    "scene10": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        576,
+        586,
+        578,
+        578
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1629,
+        2172
+      ]
+    },
+    "scene11": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        606,
+        648,
+        624,
+        645
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1629,
+        2172
+      ]
+    },
+    "scene12": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        630,
+        627,
+        591,
+        625
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1639,
+        2172
+      ]
+    },
+    "scene13": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        620,
+        611,
+        612,
+        612
+      ],
+      "bounds": [
+        0,
+        547,
+        1062,
+        1617,
+        2172
+      ]
+    },
+    "scene14": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        628,
+        624,
+        596,
+        619
+      ],
+      "bounds": [
+        0,
+        543,
+        1067,
+        1629,
+        2172
+      ]
+    },
+    "scene15": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        613,
+        613,
+        613,
+        613
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1629,
+        2172
+      ]
+    },
+    "scene16": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        684,
+        698,
+        642,
+        643
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1629,
+        2172
+      ]
+    },
+    "scene17": {
+      "width": 2172,
+      "height": 724,
+      "panelWidth": 543.0,
+      "floors": [
+        685,
+        698,
+        642,
+        644
+      ],
+      "bounds": [
+        0,
+        543,
+        1086,
+        1629,
+        2172
+      ]
+    }
+  },
+  "storyboard": "phien-ban-hoat-hoa/storyboard.json",
+  "previousOutput": "out/tap-03-da-dang-phan-canh.mp4",
+  "previousStoryboard": "storyboard-v3.json",
+  "currentComposition": "Du_an_Vang/video-remotion/src/tap03-animation-full.tsx",
+  "currentAssets": "Du_an_Vang/video-remotion/public/tap03-animation-full/",
+  "currentQa": "phien-ban-hoat-hoa/qa/kiem-tra-mp4.json"
+}

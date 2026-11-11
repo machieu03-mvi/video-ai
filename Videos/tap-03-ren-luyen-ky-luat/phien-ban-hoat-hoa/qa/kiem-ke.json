@@ -1,0 +1,8 @@
+{
+  "status": "automated_checks_passed",
+  "sceneCount": 52,
+  "fps": 30,
+  "uniqueAssetPoses": 52,
+  "issues": [],
+  "limitation": "Kiểm tra tự động không phát hiện ảnh trùng nội dung nhưng khác mã; cần rà bằng mắt và kiểm tra MP4."
+}

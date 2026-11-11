@@ -1,0 +1,18 @@
+<!doctype html><html lang="vi"><meta charset="utf-8"><title>Mẫu Shorts — Bản chất của vàng</title>
+<style>body{margin:0;background:#16203b;color:#fff;font:16px Arial;text-align:center}canvas{height:94vh;max-width:100vw}p{margin:5px}</style>
+<p>Mẫu dọc 9:16 · 12 giây · không có giọng đọc</p><canvas id="c" width="1080" height="1920"></canvas>
+<script>
+const c=document.querySelector('#c'),x=c.getContext('2d');
+const imgs=['vo_tuong_tai_chinh','quan_van_truong','quan_su_tai_chinh'].map(n=>{const i=new Image();i.src='../Nhan_vat_tham_chieu/'+n+'.png';return i});
+const ready=Promise.all(imgs.map(i=>i.decode()));
+function text(s,px,py,font,color,align='center'){x.font=font;x.fillStyle=color;x.textAlign=align;x.fillText(s,px,py)}
+function frame(t){let n=Math.min(2,Math.floor(t/4));x.fillStyle='#faf6e9';x.fillRect(0,0,1080,1920);x.fillStyle='#dceefb';x.beginPath();x.arc(850,380,390,0,7);x.fill();x.fillStyle='#173257';x.fillRect(0,0,1080,22);
+text('CHUYỆN TÀI CHÍNH',540,230,'bold 36px Arial','#237eb9');
+x.save();x.beginPath();x.roundRect(180,280,720,930,35);x.clip();x.drawImage(imgs[n],0,35,460,870,180,280+Math.sin(t*2)*5,720,930);x.restore();
+x.fillStyle='#fff';x.beginPath();x.roundRect(88,1235,904,405,40);x.fill();
+const a=[['TRƯƠNG PHI','Giá vàng tăng hay giảm?','Cơ hội đang ở đâu?'],['QUAN VÂN TRƯỜNG','Vì sao vàng có','giá trị lớn đến vậy?'],['GIA CÁT LƯỢNG','Vàng không chỉ là','một món hàng để mua bán.']][n];
+text(a[0],540,1320,'bold 36px Arial','#2884ba');text(a[1],540,1415,'bold 53px Arial','#14294d');text(a[2],540,1500,'bold 53px Arial','#14294d');text('BẢN CHẤT CỦA VÀNG',540,1585,'bold 31px Arial','#a0781b');
+text('MẪU HÌNH ẢNH · CHƯA CÓ GIỌNG ĐỌC',540,1740,'bold 25px Arial','#667789');}
+let start,recording=false;function loop(ms){if(!start)start=ms;if(!recording)frame(((ms-start)/1000)%12);requestAnimationFrame(loop)}ready.then(()=>requestAnimationFrame(loop));
+window.recordSample=async()=>{await ready;recording=true;frame(0);let chunks=[];const recorder=new MediaRecorder(c.captureStream(24),{mimeType:'video/webm;codecs=vp9',videoBitsPerSecond:4500000});recorder.ondataavailable=e=>{if(e.data.size)chunks.push(e.data)};const done=new Promise(r=>recorder.onstop=r);recorder.start();const begin=performance.now();await new Promise(resolve=>{function draw(now){let t=(now-begin)/1000;frame(Math.min(t,11.99));if(t<12)requestAnimationFrame(draw);else resolve()}requestAnimationFrame(draw)});recorder.stop();await done;return await new Promise(resolve=>{let f=new FileReader();f.onload=()=>resolve(f.result.split(',')[1]);f.readAsDataURL(new Blob(chunks,{type:'video/webm'}))})};
+</script></html>
