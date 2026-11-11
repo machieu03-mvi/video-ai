@@ -61,6 +61,15 @@
     "fontWeight": 800,
     "bottom": 92
   },
+  "characterScale": {
+    "method": "head_gem_diameter",
+    "approvedDate": "2026-11-11",
+    "targetHeadPx": 19,
+    "maxGroupWidth": 680,
+    "maxGroupHeight": 600,
+    "groundY": 890,
+    "note": "Đường kính viên ngọc trên mũ hiển thị trên khung 720×1280; thay mốc Gia Cát Lượng 450 px."
+  },
   "chart": {
     "up": "#30876e",
     "down": "#bf533e"

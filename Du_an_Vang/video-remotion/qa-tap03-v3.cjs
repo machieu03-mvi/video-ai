@@ -8,7 +8,7 @@ const path=require('path');
  fs.mkdirSync(out,{recursive:true});
  const scenes=JSON.parse(fs.readFileSync(path.join(root,'Videos/tap-03-ren-luyen-ky-luat/storyboard-v3.json'),'utf8')).visualBeats;
  const serveUrl=await bundle({entryPoint:path.resolve('src/tap03-v3.tsx'),onProgress:()=>{}});
- const browser=await openBrowser('chrome',{browserExecutable:'C:/Program Files/Google/Chrome/Application/chrome.exe',logLevel:'error'});
+ const browser=await openBrowser('chrome',{browserExecutable:require('./qa-browser.cjs').browserExecutable(),logLevel:'error'});
  try {
   const composition=await selectComposition({serveUrl,id:'Tap03V3',puppeteerInstance:browser,logLevel:'error'});
   for(let i=0;i<scenes.length;i++){

@@ -4,7 +4,7 @@ import {VIDEO_FONT} from './fonts';
 import {TIMELINE} from '../../../Videos/tap-03-ren-luyen-ky-luat/phien-ban-co-giong/src/timeline';
 import PROFILE from '../../../Quy_trinh_video/visual-profile.json';
 import {SHEETS} from './tap03-animation-data';
-import {SCENES,SCALE,END_FRAME} from './tap03-voice-data';
+import {SCENES,SCALE,DEMO_SCALE,END_FRAME} from './tap03-voice-data';
 
 type Scene={id:number;frame:number;durationFrames:number;originalDurationFrames:number;cue:number;kind:string;sheet:string;row?:number;icons?:{id:string}[]};
 type Pose=[number,number,boolean];
@@ -58,7 +58,8 @@ const Full:React.FC=()=>{
   const pose=motion.poses.reduce((last,p)=>poseFrame>=p[0]?p:last,motion.poses[0]);
   const x=pose[1]*543;
   const file=scene.kind==='demo'?`tap03-demo-motion/${scene.sheet}${pose[2]?'-between':''}.png`:'tap03-animation-full/shot-patience.png';
-  const scale=scene.sheet==='shot0'?450/445:scene.sheet==='shot1'?450/388:1;
+  // Scale giữ cỡ đầu đồng nhất, đo bằng tinh-ty-le.py.
+  const scale=DEMO_SCALE[String(scene.id)];
   const width=543*scale,height=724*scale,left=(720-width)/2,top=890-motion.floor*scale;
   art=<svg style={{position:'absolute',top,left}} width={width} height={height} viewBox={`${x} 0 543 724`}><defs><clipPath id="clip-demo"><rect x={x+2} y="0" width="539" height="724"/></clipPath></defs><image href={staticFile(file)} width="2172" height="724" clipPath="url(#clip-demo)"/></svg>;
  }else{
@@ -80,8 +81,8 @@ const Full:React.FC=()=>{
  const easing=(v:number)=>{const t=Math.max(0,Math.min(1,v));return t*t*(3-2*t);};
  const sceneOpacity=Math.min(scene.id===1?1:easing(local/4),scene.id===scenes.length?1:easing((scene.durationFrames-local)/4));
  return <AbsoluteFill style={{fontFamily:VIDEO_FONT,background:PROFILE.background.fallback}}><Audio src={staticFile('tap03/elevenlabs-tap03-v4.mp3')}/><Img src={staticFile('tap03/nen-giay.png')} style={{position:'absolute',width:'100%',height:'100%',objectFit:'cover',filter:PROFILE.background.filter}}/><AbsoluteFill style={{opacity:Math.min(1,(end-frame)/15)}}>
-  <div style={{position:'absolute',top:80,width:'100%',textAlign:'center',fontSize:23,fontWeight:900,color:'#9b6019'}}>TẬP 3 · TÂM LÝ GIAO DỊCH</div>
-  <div style={{position:'absolute',top:140,left:40,right:40,textAlign:'center',fontSize:46,lineHeight:1.17,fontWeight:900,color:'#173b50'}}>{label.title}</div>
+  <div style={{position:'absolute',top:PROFILE.series.top,width:'100%',textAlign:'center',fontSize:PROFILE.series.fontSize,fontWeight:PROFILE.series.fontWeight,color:PROFILE.series.color}}>TẬP 3 · TÂM LÝ GIAO DỊCH</div>
+  <div style={{position:'absolute',top:PROFILE.title.top,left:PROFILE.title.horizontalMargin,right:PROFILE.title.horizontalMargin,textAlign:'center',fontSize:PROFILE.title.fontSize,lineHeight:PROFILE.title.lineHeight,fontWeight:PROFILE.title.fontWeight,color:PROFILE.title.color}}>{label.title}</div>
   {illustrativeCharts.has(scene.id)&&<div style={{position:'absolute',top:220,width:'100%',textAlign:'center',fontSize:17,fontWeight:800,color:'#73552d'}}>BIỂU ĐỒ MINH HỌA</div>}
   {breath&&<div style={{position:'absolute',top:285,width:'100%',textAlign:'center',fontSize:32,fontWeight:900,color:'#8c5b25'}}>{breath}</div>}
   <svg width="720" height="1280" style={{position:'absolute'}}><path d="M0 890H720" stroke="#bfa578" strokeWidth="4"/></svg>

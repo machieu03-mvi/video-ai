@@ -1,10 +1,11 @@
+import qaBrowser from './qa-browser.cjs';
 import {bundle} from '@remotion/bundler';
 import {openBrowser,selectComposition,renderStill} from '@remotion/renderer';
 import fs from 'node:fs';
 import path from 'node:path';
 const tl=JSON.parse(fs.readFileSync('src/vang/timeline.json','utf8'));
 const cuts=[0,...[4,9,12,14,16,18,21,22].map(i=>tl.cues[i].startFrame),tl.durationInFrames];
-const browser=await openBrowser('chrome',{browserExecutable:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+const browser=await openBrowser('chrome',{browserExecutable:qaBrowser.browserExecutable()});
 const ending=process.argv.includes('--ending');
 const shadows=process.argv.includes('--shadows');
 const dir=shadows?'out/qa-v6-shadows':ending?'out/qa-v5-ending':'out/qa-v4';

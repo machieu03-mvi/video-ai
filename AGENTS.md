@@ -2,7 +2,7 @@
 
 ## Bàn giao và duy trì ngữ cảnh
 
-Khi bắt đầu công việc, đọc `Quan_ly_du_an/TRANG_THAI.md` và phần tài liệu liên quan; kiểm tra trạng thái Git bằng `python Quan_ly_du_an/kiem_tra.py` nếu Git đã được khởi tạo. Cập nhật trạng thái ngắn gọn sau mỗi mốc quan trọng, nêu việc đã xác minh, kiểm thử, lỗi và bước tiếp theo; ghi quyết định kỹ thuật quan trọng tại đó, không ghi bí mật hay toàn bộ hội thoại. Khi cần bàn giao, làm theo `Quan_ly_du_an/DONG_BO.md`. Không giả định lịch sử chat hoặc thay đổi chưa push được chuyển sang tài khoản khác. Không tự force push, ghi đè thay đổi, tạo repo, push lần đầu hay merge khi chưa được phép.
+Khi bắt đầu công việc, đọc `Quan_ly_du_an/TRANG_THAI.md` và phần tài liệu liên quan; kiểm tra trạng thái Git bằng `python Quan_ly_du_an/kiem_tra.py` (macOS/Linux: `python3`) nếu Git đã được khởi tạo. Cập nhật trạng thái ngắn gọn sau mỗi mốc quan trọng, nêu việc đã xác minh, kiểm thử, lỗi và bước tiếp theo; ghi quyết định kỹ thuật quan trọng tại đó, không ghi bí mật hay toàn bộ hội thoại. Khi cần bàn giao, làm theo `Quan_ly_du_an/DONG_BO.md`. Không giả định lịch sử chat hoặc thay đổi chưa push được chuyển sang tài khoản khác. Không tự force push, ghi đè thay đổi, tạo repo, push lần đầu hay merge khi chưa được phép.
 
 Chỉ mục tài liệu: `Tai_lieu/README.md`. Quy trình hiện hành: đọc `Tai_lieu/01_Quy_trinh/SAN_XUAT_VIDEO.md` khi nhận kịch bản mới hoặc sửa video. Skill dự án: `.agents/skills/video-tai-chinh/SKILL.md`. Các mẫu thao tác ở `Tai_lieu/03_Bieu_mau/`. Nền, màu chữ và đoạn kết theo `Tai_lieu/02_Quy_chuan/HINH_ANH.md` và `Quy_trinh_video/visual-profile.json`. Kế thừa quy ước đã chốt trong các tài liệu này để người dùng không phải nhắc lại. Các tệp hướng dẫn cũ tại gốc chỉ dẫn tới nguồn chính, cần đọc tiếp tệp đích.
 

@@ -6,7 +6,7 @@ const fs=require('fs'); const path=require('path');
  const out=path.join(folder,'qa/frames');fs.mkdirSync(out,{recursive:true});
  const scenes=JSON.parse(fs.readFileSync(path.join(folder,'storyboard.json'),'utf8')).visualBeats;
  const serveUrl=await bundle({entryPoint:path.resolve('src/tap03-voice-final.tsx'),onProgress:()=>{}});
- const browser=await openBrowser('chrome',{browserExecutable:'C:/Program Files/Google/Chrome/Application/chrome.exe',logLevel:'error'});
+ const browser=await openBrowser('chrome',{browserExecutable:require('./qa-browser.cjs').browserExecutable(),logLevel:'error'});
  try{
   const composition=await selectComposition({serveUrl,id:'Tap03CoGiong',puppeteerInstance:browser,logLevel:'error'});
   for(const s of scenes){
