@@ -11,7 +11,11 @@ RULES = [
     re.compile(rb'-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----'),
     re.compile(rb'gh[pousr]_[A-Za-z0-9]{30,}'),
     re.compile(rb'github_pat_[A-Za-z0-9_]{30,}'),
-    re.compile(rb'(?i)(?:xi-api-key|elevenlabs_api_key|api[_-]?key|access[_-]?token|password)\s*[:=]\s*[\x22\x27][A-Za-z0-9_\-]{24,}[\x22\x27]'),
+    # Khóa ElevenLabs dạng sk_ + chuỗi hex, ở bất kỳ đâu (Markdown, JSON, shell...).
+    re.compile(rb'(?<![A-Za-z0-9])sk_[0-9a-f]{40,}'),
+    # Gán giá trị dài cho tên khóa: chấp nhận nháy quanh tên (JSON/dict) và giá trị có hoặc không có nháy
+    # (`api_key = '...'`, `"xi-api-key": "..."`, `export ELEVENLABS_API_KEY=...`).
+    re.compile(rb'(?i)(?:xi-api-key|elevenlabs_api_key|api[_-]?key|access[_-]?token|secret[_-]?key|password)[\x22\x27]?\s*[:=]\s*[\x22\x27]?[A-Za-z0-9_\-]{24,}'),
 ]
 
 

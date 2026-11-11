@@ -50,7 +50,7 @@ for (const fr of frames) {
 
 try {
   execFileSync(
-    "python",
+    process.env.PYTHON || (process.platform === "win32" ? "python" : "python3"),
     [
       "-c",
       `
@@ -73,6 +73,6 @@ W.save(out)
     { stdio: "inherit" },
   );
   console.log("contact sheet:", out);
-} catch {
-  console.log("Pillow not available (pip install pillow); single frames are in", dir);
+} catch (e) {
+  console.log("Could not build the contact sheet (" + e.message.split("\n")[0] + "). Needs Python with Pillow; set PYTHON to override. Single frames are in", dir);
 }

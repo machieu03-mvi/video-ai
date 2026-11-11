@@ -2,7 +2,7 @@
 
 ## Nguyên tắc
 
-GitHub và ChatGPT là hai tài khoản độc lập. Mỗi người có tài khoản GitHub riêng được cấp quyền vào repo **private**, không chia sẻ tài khoản ChatGPT hay token. Công cụ chỉ đọc tại `python Quan_ly_du_an/kiem_tra.py`; tự động cập nhật tài liệu là quy tắc cho Codex, không phải tiến trình nền hay bảo đảm khi phiên bị ngắt đột ngột. Lưu công việc theo mốc, chủ động yêu cầu bàn giao trước khi hết hạn mức. Không bao giờ force push, reset --hard, tự giải quyết xung đột hoặc ghi đè thay đổi của người khác.
+GitHub và ChatGPT là hai tài khoản độc lập. Mỗi người có tài khoản GitHub riêng được cấp quyền vào repo **private**, không chia sẻ tài khoản ChatGPT hay token. Công cụ chỉ đọc tại `python Quan_ly_du_an/kiem_tra.py` (macOS/Linux: `python3`; script QA Remotion tìm Chrome theo hệ điều hành hoặc biến `CHROME_PATH`); tự động cập nhật tài liệu là quy tắc cho Codex, không phải tiến trình nền hay bảo đảm khi phiên bị ngắt đột ngột. Lưu công việc theo mốc, chủ động yêu cầu bàn giao trước khi hết hạn mức. Không bao giờ force push, reset --hard, tự giải quyết xung đột hoặc ghi đè thay đổi của người khác.
 
 ## Chuẩn bị trên máy đầu tiên — chỉ sau khi được phê duyệt
 

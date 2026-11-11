@@ -2,6 +2,7 @@
 
 | Ngày | Phạm vi | Nội dung |
 |---|---|---|
+| 11/11/2026 | Tỷ lệ nhân vật | Thay mốc Gia Cát Lượng 450 px bằng mốc cỡ đầu: viên ngọc trên mũ 19 px trên khung 720×1280, nhóm tối đa 680×600 px; thêm `characterScale` vào cấu hình và `tinh-ty-le.py`; áp dụng cho Tập 3 có giọng. |
 | 11/11/2026 | Kích thước tiêu đề | Chốt tên tập 24 px và tiêu đề chính 40 px theo ảnh demo Tập 3; cập nhật quy trình và cấu hình hình ảnh. |
 | 11/11/2026 | Chốt demo 15 giây | Chọn mốc Gia Cát Lượng 450 px trên khung 720×1280 cho cảnh toàn thân và chuyển hình 4 frame ra/4 frame vào ở 30 fps. |
 | 11/11/2026 | Tỷ lệ và chuyển cảnh | Lập bảng tỷ lệ nhân vật theo cỡ cảnh và điểm sàn; bổ sung thiết kế, dựng và kiểm tra chuyển cảnh mượt theo lời dẫn. |
